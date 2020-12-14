@@ -1,0 +1,2221 @@
+2020-08-20 18:01:40,922 - logger - INFO - train_set: {'dark': 0, 'light': 1}
+2020-08-20 18:01:40,922 - logger - INFO - valid_set: {'dark': 0, 'light': 1}
+2020-08-20 18:01:40,923 - logger - INFO - test_set: {'dark': 0, 'light': 1}
+2020-08-20 18:01:43,527 - logger - INFO - ----- Epoch 1 train starts now -----
+2020-08-20 18:01:45,870 - logger - INFO - Accuracy of the network: 53 % (185/343)
+2020-08-20 18:01:46,303 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:01:46,304 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:01:46,363 - logger - INFO - Accuracy of the network: 54 % (26/48)
+2020-08-20 18:01:46,424 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:01:46,424 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:01:46,552 - logger - INFO - Accuracy of the network: 54 % (53/98)
+2020-08-20 18:01:46,683 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:01:46,684 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:01:46,741 - logger - INFO - Saving epoch 1 model successfully!
+2020-08-20 18:01:46,741 - logger - INFO - ----- Epoch 2 train starts now -----
+2020-08-20 18:01:47,853 - logger - INFO - Accuracy of the network: 45 % (155/343)
+2020-08-20 18:01:48,284 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:01:48,284 - logger - INFO - Accuracy of    dark:  2 %
+2020-08-20 18:01:48,341 - logger - INFO - Accuracy of the network: 43 % (21/48)
+2020-08-20 18:01:48,400 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:01:48,400 - logger - INFO - Accuracy of    dark:  0 %
+2020-08-20 18:01:48,523 - logger - INFO - Accuracy of the network: 47 % (47/98)
+2020-08-20 18:01:48,657 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:01:48,657 - logger - INFO - Accuracy of    dark:  0 %
+2020-08-20 18:01:48,677 - logger - INFO - Saving epoch 2 model successfully!
+2020-08-20 18:01:48,677 - logger - INFO - ----- Epoch 3 train starts now -----
+2020-08-20 18:01:49,775 - logger - INFO - Accuracy of the network: 53 % (185/343)
+2020-08-20 18:01:50,214 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:01:50,214 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:01:50,272 - logger - INFO - Accuracy of the network: 54 % (26/48)
+2020-08-20 18:01:50,333 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:01:50,333 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:01:50,459 - logger - INFO - Accuracy of the network: 55 % (54/98)
+2020-08-20 18:01:50,596 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:01:50,596 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:01:50,615 - logger - INFO - Saving epoch 3 model successfully!
+2020-08-20 18:01:50,616 - logger - INFO - ----- Epoch 4 train starts now -----
+2020-08-20 18:01:51,716 - logger - INFO - Accuracy of the network: 53 % (185/343)
+2020-08-20 18:01:52,154 - logger - INFO - Accuracy of  bright: 29 %
+2020-08-20 18:01:52,154 - logger - INFO - Accuracy of    dark: 70 %
+2020-08-20 18:01:52,212 - logger - INFO - Accuracy of the network: 47 % (23/48)
+2020-08-20 18:01:52,272 - logger - INFO - Accuracy of  bright: 27 %
+2020-08-20 18:01:52,272 - logger - INFO - Accuracy of    dark: 76 %
+2020-08-20 18:01:52,398 - logger - INFO - Accuracy of the network: 55 % (54/98)
+2020-08-20 18:01:52,531 - logger - INFO - Accuracy of  bright: 28 %
+2020-08-20 18:01:52,532 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:01:52,552 - logger - INFO - Saving epoch 4 model successfully!
+2020-08-20 18:01:52,553 - logger - INFO - ----- Epoch 5 train starts now -----
+2020-08-20 18:01:53,649 - logger - INFO - Accuracy of the network: 58 % (199/343)
+2020-08-20 18:01:54,086 - logger - INFO - Accuracy of  bright: 52 %
+2020-08-20 18:01:54,086 - logger - INFO - Accuracy of    dark: 72 %
+2020-08-20 18:01:54,144 - logger - INFO - Accuracy of the network: 64 % (31/48)
+2020-08-20 18:01:54,204 - logger - INFO - Accuracy of  bright: 36 %
+2020-08-20 18:01:54,204 - logger - INFO - Accuracy of    dark: 53 %
+2020-08-20 18:01:54,329 - logger - INFO - Accuracy of the network: 56 % (55/98)
+2020-08-20 18:01:54,461 - logger - INFO - Accuracy of  bright: 46 %
+2020-08-20 18:01:54,461 - logger - INFO - Accuracy of    dark: 67 %
+2020-08-20 18:01:54,481 - logger - INFO - Saving epoch 5 model successfully!
+2020-08-20 18:01:54,481 - logger - INFO - ----- Epoch 6 train starts now -----
+2020-08-20 18:01:55,575 - logger - INFO - Accuracy of the network: 55 % (189/343)
+2020-08-20 18:01:56,008 - logger - INFO - Accuracy of  bright: 22 %
+2020-08-20 18:01:56,009 - logger - INFO - Accuracy of    dark: 82 %
+2020-08-20 18:01:56,069 - logger - INFO - Accuracy of the network: 52 % (25/48)
+2020-08-20 18:01:56,129 - logger - INFO - Accuracy of  bright: 27 %
+2020-08-20 18:01:56,129 - logger - INFO - Accuracy of    dark: 76 %
+2020-08-20 18:01:56,255 - logger - INFO - Accuracy of the network: 55 % (54/98)
+2020-08-20 18:01:56,386 - logger - INFO - Accuracy of  bright: 20 %
+2020-08-20 18:01:56,387 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:01:56,406 - logger - INFO - Saving epoch 6 model successfully!
+2020-08-20 18:01:56,406 - logger - INFO - ----- Epoch 7 train starts now -----
+2020-08-20 18:01:57,482 - logger - INFO - Accuracy of the network: 55 % (189/343)
+2020-08-20 18:01:57,914 - logger - INFO - Accuracy of  bright:  6 %
+2020-08-20 18:01:57,914 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:01:57,971 - logger - INFO - Accuracy of the network: 56 % (27/48)
+2020-08-20 18:01:58,030 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:01:58,030 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:01:58,156 - logger - INFO - Accuracy of the network: 53 % (52/98)
+2020-08-20 18:01:58,288 - logger - INFO - Accuracy of  bright:  2 %
+2020-08-20 18:01:58,288 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:01:58,307 - logger - INFO - Saving epoch 7 model successfully!
+2020-08-20 18:01:58,307 - logger - INFO - ----- Epoch 8 train starts now -----
+2020-08-20 18:01:59,395 - logger - INFO - Accuracy of the network: 58 % (202/343)
+2020-08-20 18:01:59,830 - logger - INFO - Accuracy of  bright: 89 %
+2020-08-20 18:01:59,831 - logger - INFO - Accuracy of    dark: 30 %
+2020-08-20 18:01:59,888 - logger - INFO - Accuracy of the network: 45 % (22/48)
+2020-08-20 18:01:59,948 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:01:59,948 - logger - INFO - Accuracy of    dark: 15 %
+2020-08-20 18:02:00,075 - logger - INFO - Accuracy of the network: 46 % (46/98)
+2020-08-20 18:02:00,207 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:02:00,207 - logger - INFO - Accuracy of    dark: 16 %
+2020-08-20 18:02:00,227 - logger - INFO - Saving epoch 8 model successfully!
+2020-08-20 18:02:00,227 - logger - INFO - ----- Epoch 9 train starts now -----
+2020-08-20 18:02:01,323 - logger - INFO - Accuracy of the network: 63 % (219/343)
+2020-08-20 18:02:01,760 - logger - INFO - Accuracy of  bright: 74 %
+2020-08-20 18:02:01,760 - logger - INFO - Accuracy of    dark: 54 %
+2020-08-20 18:02:01,818 - logger - INFO - Accuracy of the network: 64 % (31/48)
+2020-08-20 18:02:01,878 - logger - INFO - Accuracy of  bright: 59 %
+2020-08-20 18:02:01,878 - logger - INFO - Accuracy of    dark: 38 %
+2020-08-20 18:02:02,008 - logger - INFO - Accuracy of the network: 56 % (55/98)
+2020-08-20 18:02:02,139 - logger - INFO - Accuracy of  bright: 64 %
+2020-08-20 18:02:02,139 - logger - INFO - Accuracy of    dark: 49 %
+2020-08-20 18:02:02,160 - logger - INFO - Saving epoch 9 model successfully!
+2020-08-20 18:02:02,160 - logger - INFO - ----- Epoch 10 train starts now -----
+2020-08-20 18:02:03,258 - logger - INFO - Accuracy of the network: 55 % (192/343)
+2020-08-20 18:02:03,694 - logger - INFO - Accuracy of  bright:  1 %
+2020-08-20 18:02:03,694 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:02:03,752 - logger - INFO - Accuracy of the network: 52 % (25/48)
+2020-08-20 18:02:03,812 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:02:03,812 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:02:03,938 - logger - INFO - Accuracy of the network: 54 % (53/98)
+2020-08-20 18:02:04,072 - logger - INFO - Accuracy of  bright:  2 %
+2020-08-20 18:02:04,072 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:02:04,092 - logger - INFO - Saving epoch 10 model successfully!
+2020-08-20 18:02:04,092 - logger - INFO - ----- Epoch 11 train starts now -----
+2020-08-20 18:02:05,250 - logger - INFO - Accuracy of the network: 56 % (193/343)
+2020-08-20 18:02:05,764 - logger - INFO - Accuracy of  bright: 18 %
+2020-08-20 18:02:05,764 - logger - INFO - Accuracy of    dark: 89 %
+2020-08-20 18:02:05,834 - logger - INFO - Accuracy of the network: 56 % (27/48)
+2020-08-20 18:02:05,906 - logger - INFO - Accuracy of  bright: 13 %
+2020-08-20 18:02:05,906 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:02:06,050 - logger - INFO - Accuracy of the network: 56 % (55/98)
+2020-08-20 18:02:06,200 - logger - INFO - Accuracy of  bright: 17 %
+2020-08-20 18:02:06,200 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:02:06,224 - logger - INFO - Saving epoch 11 model successfully!
+2020-08-20 18:02:06,224 - logger - INFO - ----- Epoch 12 train starts now -----
+2020-08-20 18:02:07,469 - logger - INFO - Accuracy of the network: 54 % (187/343)
+2020-08-20 18:02:07,945 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:02:07,946 - logger - INFO - Accuracy of    dark: 20 %
+2020-08-20 18:02:08,005 - logger - INFO - Accuracy of the network: 54 % (26/48)
+2020-08-20 18:02:08,067 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:02:08,067 - logger - INFO - Accuracy of    dark: 23 %
+2020-08-20 18:02:08,194 - logger - INFO - Accuracy of the network: 52 % (51/98)
+2020-08-20 18:02:08,329 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:02:08,329 - logger - INFO - Accuracy of    dark:  5 %
+2020-08-20 18:02:08,349 - logger - INFO - Saving epoch 12 model successfully!
+2020-08-20 18:02:08,350 - logger - INFO - ----- Epoch 13 train starts now -----
+2020-08-20 18:02:09,484 - logger - INFO - Accuracy of the network: 67 % (232/343)
+2020-08-20 18:02:09,995 - logger - INFO - Accuracy of  bright: 76 %
+2020-08-20 18:02:09,995 - logger - INFO - Accuracy of    dark: 58 %
+2020-08-20 18:02:10,064 - logger - INFO - Accuracy of the network: 58 % (28/48)
+2020-08-20 18:02:10,134 - logger - INFO - Accuracy of  bright: 63 %
+2020-08-20 18:02:10,134 - logger - INFO - Accuracy of    dark: 42 %
+2020-08-20 18:02:10,281 - logger - INFO - Accuracy of the network: 54 % (53/98)
+2020-08-20 18:02:10,431 - logger - INFO - Accuracy of  bright: 71 %
+2020-08-20 18:02:10,431 - logger - INFO - Accuracy of    dark: 52 %
+2020-08-20 18:02:10,454 - logger - INFO - Saving epoch 13 model successfully!
+2020-08-20 18:02:10,454 - logger - INFO - ----- Epoch 14 train starts now -----
+2020-08-20 18:02:11,656 - logger - INFO - Accuracy of the network: 64 % (221/343)
+2020-08-20 18:02:12,088 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:02:12,088 - logger - INFO - Accuracy of    dark: 38 %
+2020-08-20 18:02:12,149 - logger - INFO - Accuracy of the network: 52 % (25/48)
+2020-08-20 18:02:12,219 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:02:12,220 - logger - INFO - Accuracy of    dark: 30 %
+2020-08-20 18:02:12,365 - logger - INFO - Accuracy of the network: 55 % (54/98)
+2020-08-20 18:02:12,510 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:02:12,510 - logger - INFO - Accuracy of    dark: 28 %
+2020-08-20 18:02:12,533 - logger - INFO - Saving epoch 14 model successfully!
+2020-08-20 18:02:12,533 - logger - INFO - ----- Epoch 15 train starts now -----
+2020-08-20 18:02:13,649 - logger - INFO - Accuracy of the network: 53 % (185/343)
+2020-08-20 18:02:14,085 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:02:14,085 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:02:14,142 - logger - INFO - Accuracy of the network: 54 % (26/48)
+2020-08-20 18:02:14,201 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:02:14,201 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:02:14,324 - logger - INFO - Accuracy of the network: 55 % (54/98)
+2020-08-20 18:02:14,457 - logger - INFO - Accuracy of  bright:  0 %
+2020-08-20 18:02:14,457 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:02:14,477 - logger - INFO - Saving epoch 15 model successfully!
+2020-08-20 18:02:14,477 - logger - INFO - ----- Epoch 16 train starts now -----
+2020-08-20 18:02:15,565 - logger - INFO - Accuracy of the network: 64 % (221/343)
+2020-08-20 18:02:16,001 - logger - INFO - Accuracy of  bright: 83 %
+2020-08-20 18:02:16,001 - logger - INFO - Accuracy of    dark: 51 %
+2020-08-20 18:02:16,059 - logger - INFO - Accuracy of the network: 60 % (29/48)
+2020-08-20 18:02:16,119 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:02:16,119 - logger - INFO - Accuracy of    dark: 38 %
+2020-08-20 18:02:16,245 - logger - INFO - Accuracy of the network: 58 % (57/98)
+2020-08-20 18:02:16,379 - logger - INFO - Accuracy of  bright: 75 %
+2020-08-20 18:02:16,379 - logger - INFO - Accuracy of    dark: 37 %
+2020-08-20 18:02:16,398 - logger - INFO - Saving epoch 16 model successfully!
+2020-08-20 18:02:16,398 - logger - INFO - ----- Epoch 17 train starts now -----
+2020-08-20 18:02:17,487 - logger - INFO - Accuracy of the network: 66 % (229/343)
+2020-08-20 18:02:17,923 - logger - INFO - Accuracy of  bright: 44 %
+2020-08-20 18:02:17,923 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:02:17,981 - logger - INFO - Accuracy of the network: 47 % (23/48)
+2020-08-20 18:02:18,041 - logger - INFO - Accuracy of  bright: 27 %
+2020-08-20 18:02:18,041 - logger - INFO - Accuracy of    dark: 80 %
+2020-08-20 18:02:18,168 - logger - INFO - Accuracy of the network: 57 % (56/98)
+2020-08-20 18:02:18,302 - logger - INFO - Accuracy of  bright: 33 %
+2020-08-20 18:02:18,302 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:02:18,325 - logger - INFO - Saving epoch 17 model successfully!
+2020-08-20 18:02:18,325 - logger - INFO - ----- Epoch 18 train starts now -----
+2020-08-20 18:02:19,418 - logger - INFO - Accuracy of the network: 54 % (188/343)
+2020-08-20 18:02:19,856 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:02:19,856 - logger - INFO - Accuracy of    dark: 30 %
+2020-08-20 18:02:19,914 - logger - INFO - Accuracy of the network: 54 % (26/48)
+2020-08-20 18:02:19,975 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:02:19,975 - logger - INFO - Accuracy of    dark: 15 %
+2020-08-20 18:02:20,100 - logger - INFO - Accuracy of the network: 47 % (47/98)
+2020-08-20 18:02:20,235 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:02:20,235 - logger - INFO - Accuracy of    dark: 11 %
+2020-08-20 18:02:20,255 - logger - INFO - Saving epoch 18 model successfully!
+2020-08-20 18:02:20,255 - logger - INFO - ----- Epoch 19 train starts now -----
+2020-08-20 18:02:21,341 - logger - INFO - Accuracy of the network: 70 % (243/343)
+2020-08-20 18:02:21,770 - logger - INFO - Accuracy of  bright: 49 %
+2020-08-20 18:02:21,770 - logger - INFO - Accuracy of    dark: 77 %
+2020-08-20 18:02:21,830 - logger - INFO - Accuracy of the network: 62 % (30/48)
+2020-08-20 18:02:21,890 - logger - INFO - Accuracy of  bright: 27 %
+2020-08-20 18:02:21,890 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:02:22,014 - logger - INFO - Accuracy of the network: 60 % (59/98)
+2020-08-20 18:02:22,146 - logger - INFO - Accuracy of  bright: 35 %
+2020-08-20 18:02:22,147 - logger - INFO - Accuracy of    dark: 79 %
+2020-08-20 18:02:22,167 - logger - INFO - Saving epoch 19 model successfully!
+2020-08-20 18:02:22,167 - logger - INFO - ----- Epoch 20 train starts now -----
+2020-08-20 18:02:23,255 - logger - INFO - Accuracy of the network: 54 % (187/343)
+2020-08-20 18:02:23,687 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:02:23,687 - logger - INFO - Accuracy of    dark: 17 %
+2020-08-20 18:02:23,744 - logger - INFO - Accuracy of the network: 52 % (25/48)
+2020-08-20 18:02:23,803 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:02:23,803 - logger - INFO - Accuracy of    dark: 11 %
+2020-08-20 18:02:23,930 - logger - INFO - Accuracy of the network: 53 % (52/98)
+2020-08-20 18:02:24,061 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:02:24,061 - logger - INFO - Accuracy of    dark:  9 %
+2020-08-20 18:02:24,081 - logger - INFO - Saving epoch 20 model successfully!
+2020-08-20 18:02:24,081 - logger - INFO - ----- Epoch 21 train starts now -----
+2020-08-20 18:02:25,165 - logger - INFO - Accuracy of the network: 65 % (225/343)
+2020-08-20 18:02:25,599 - logger - INFO - Accuracy of  bright: 89 %
+2020-08-20 18:02:25,600 - logger - INFO - Accuracy of    dark: 41 %
+2020-08-20 18:02:25,657 - logger - INFO - Accuracy of the network: 54 % (26/48)
+2020-08-20 18:02:25,718 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:02:25,718 - logger - INFO - Accuracy of    dark: 34 %
+2020-08-20 18:02:25,845 - logger - INFO - Accuracy of the network: 51 % (50/98)
+2020-08-20 18:02:25,974 - logger - INFO - Accuracy of  bright: 75 %
+2020-08-20 18:02:25,974 - logger - INFO - Accuracy of    dark: 32 %
+2020-08-20 18:02:25,995 - logger - INFO - Saving epoch 21 model successfully!
+2020-08-20 18:02:25,995 - logger - INFO - ----- Epoch 22 train starts now -----
+2020-08-20 18:02:27,082 - logger - INFO - Accuracy of the network: 60 % (209/343)
+2020-08-20 18:02:27,509 - logger - INFO - Accuracy of  bright: 27 %
+2020-08-20 18:02:27,509 - logger - INFO - Accuracy of    dark: 89 %
+2020-08-20 18:02:27,566 - logger - INFO - Accuracy of the network: 60 % (29/48)
+2020-08-20 18:02:27,625 - logger - INFO - Accuracy of  bright: 31 %
+2020-08-20 18:02:27,626 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:02:27,748 - logger - INFO - Accuracy of the network: 61 % (60/98)
+2020-08-20 18:02:27,883 - logger - INFO - Accuracy of  bright: 24 %
+2020-08-20 18:02:27,883 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:02:27,903 - logger - INFO - Saving epoch 22 model successfully!
+2020-08-20 18:02:27,903 - logger - INFO - ----- Epoch 23 train starts now -----
+2020-08-20 18:02:28,984 - logger - INFO - Accuracy of the network: 64 % (221/343)
+2020-08-20 18:02:29,414 - logger - INFO - Accuracy of  bright: 85 %
+2020-08-20 18:02:29,414 - logger - INFO - Accuracy of    dark: 57 %
+2020-08-20 18:02:29,471 - logger - INFO - Accuracy of the network: 58 % (28/48)
+2020-08-20 18:02:29,531 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:02:29,531 - logger - INFO - Accuracy of    dark: 42 %
+2020-08-20 18:02:29,654 - logger - INFO - Accuracy of the network: 56 % (55/98)
+2020-08-20 18:02:29,786 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:02:29,786 - logger - INFO - Accuracy of    dark: 45 %
+2020-08-20 18:02:29,806 - logger - INFO - Saving epoch 23 model successfully!
+2020-08-20 18:02:29,806 - logger - INFO - ----- Epoch 24 train starts now -----
+2020-08-20 18:02:30,899 - logger - INFO - Accuracy of the network: 58 % (200/343)
+2020-08-20 18:02:31,335 - logger - INFO - Accuracy of  bright: 12 %
+2020-08-20 18:02:31,335 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:02:31,393 - logger - INFO - Accuracy of the network: 56 % (27/48)
+2020-08-20 18:02:31,454 - logger - INFO - Accuracy of  bright:  9 %
+2020-08-20 18:02:31,454 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:02:31,580 - logger - INFO - Accuracy of the network: 56 % (55/98)
+2020-08-20 18:02:31,711 - logger - INFO - Accuracy of  bright:  8 %
+2020-08-20 18:02:31,711 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:02:31,731 - logger - INFO - Saving epoch 24 model successfully!
+2020-08-20 18:02:31,731 - logger - INFO - ----- Epoch 25 train starts now -----
+2020-08-20 18:02:32,811 - logger - INFO - Accuracy of the network: 68 % (235/343)
+2020-08-20 18:02:33,247 - logger - INFO - Accuracy of  bright: 50 %
+2020-08-20 18:02:33,247 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:02:33,305 - logger - INFO - Accuracy of the network: 66 % (32/48)
+2020-08-20 18:02:33,367 - logger - INFO - Accuracy of  bright: 50 %
+2020-08-20 18:02:33,367 - logger - INFO - Accuracy of    dark: 69 %
+2020-08-20 18:02:33,494 - logger - INFO - Accuracy of the network: 70 % (69/98)
+2020-08-20 18:02:33,628 - logger - INFO - Accuracy of  bright: 62 %
+2020-08-20 18:02:33,628 - logger - INFO - Accuracy of    dark: 69 %
+2020-08-20 18:02:33,648 - logger - INFO - Saving epoch 25 model successfully!
+2020-08-20 18:02:33,648 - logger - INFO - ----- Epoch 26 train starts now -----
+2020-08-20 18:02:34,745 - logger - INFO - Accuracy of the network: 69 % (238/343)
+2020-08-20 18:02:35,180 - logger - INFO - Accuracy of  bright: 40 %
+2020-08-20 18:02:35,180 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:02:35,238 - logger - INFO - Accuracy of the network: 68 % (33/48)
+2020-08-20 18:02:35,297 - logger - INFO - Accuracy of  bright: 40 %
+2020-08-20 18:02:35,297 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:02:35,425 - logger - INFO - Accuracy of the network: 62 % (61/98)
+2020-08-20 18:02:35,557 - logger - INFO - Accuracy of  bright: 40 %
+2020-08-20 18:02:35,557 - logger - INFO - Accuracy of    dark: 77 %
+2020-08-20 18:02:35,577 - logger - INFO - Saving epoch 26 model successfully!
+2020-08-20 18:02:35,577 - logger - INFO - ----- Epoch 27 train starts now -----
+2020-08-20 18:02:36,738 - logger - INFO - Accuracy of the network: 73 % (251/343)
+2020-08-20 18:02:37,201 - logger - INFO - Accuracy of  bright: 50 %
+2020-08-20 18:02:37,202 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:02:37,261 - logger - INFO - Accuracy of the network: 75 % (36/48)
+2020-08-20 18:02:37,324 - logger - INFO - Accuracy of  bright: 63 %
+2020-08-20 18:02:37,324 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:02:37,453 - logger - INFO - Accuracy of the network: 63 % (62/98)
+2020-08-20 18:02:37,587 - logger - INFO - Accuracy of  bright: 53 %
+2020-08-20 18:02:37,587 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:02:37,607 - logger - INFO - Saving epoch 27 model successfully!
+2020-08-20 18:02:37,607 - logger - INFO - ----- Epoch 28 train starts now -----
+2020-08-20 18:02:38,711 - logger - INFO - Accuracy of the network: 73 % (253/343)
+2020-08-20 18:02:39,146 - logger - INFO - Accuracy of  bright: 66 %
+2020-08-20 18:02:39,146 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:02:39,204 - logger - INFO - Accuracy of the network: 66 % (32/48)
+2020-08-20 18:02:39,264 - logger - INFO - Accuracy of  bright: 54 %
+2020-08-20 18:02:39,264 - logger - INFO - Accuracy of    dark: 53 %
+2020-08-20 18:02:39,393 - logger - INFO - Accuracy of the network: 64 % (63/98)
+2020-08-20 18:02:39,524 - logger - INFO - Accuracy of  bright: 48 %
+2020-08-20 18:02:39,524 - logger - INFO - Accuracy of    dark: 56 %
+2020-08-20 18:02:39,544 - logger - INFO - Saving epoch 28 model successfully!
+2020-08-20 18:02:39,544 - logger - INFO - ----- Epoch 29 train starts now -----
+2020-08-20 18:02:40,633 - logger - INFO - Accuracy of the network: 77 % (266/343)
+2020-08-20 18:02:41,069 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:02:41,069 - logger - INFO - Accuracy of    dark: 65 %
+2020-08-20 18:02:41,126 - logger - INFO - Accuracy of the network: 64 % (31/48)
+2020-08-20 18:02:41,186 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:02:41,186 - logger - INFO - Accuracy of    dark: 53 %
+2020-08-20 18:02:41,311 - logger - INFO - Accuracy of the network: 71 % (70/98)
+2020-08-20 18:02:41,444 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:02:41,444 - logger - INFO - Accuracy of    dark: 54 %
+2020-08-20 18:02:41,465 - logger - INFO - Saving epoch 29 model successfully!
+2020-08-20 18:02:41,465 - logger - INFO - ----- Epoch 30 train starts now -----
+2020-08-20 18:02:42,557 - logger - INFO - Accuracy of the network: 70 % (243/343)
+2020-08-20 18:02:42,987 - logger - INFO - Accuracy of  bright: 46 %
+2020-08-20 18:02:42,987 - logger - INFO - Accuracy of    dark: 93 %
+2020-08-20 18:02:43,043 - logger - INFO - Accuracy of the network: 66 % (32/48)
+2020-08-20 18:02:43,102 - logger - INFO - Accuracy of  bright: 45 %
+2020-08-20 18:02:43,102 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:02:43,224 - logger - INFO - Accuracy of the network: 69 % (68/98)
+2020-08-20 18:02:43,357 - logger - INFO - Accuracy of  bright: 44 %
+2020-08-20 18:02:43,357 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:02:43,376 - logger - INFO - Saving epoch 30 model successfully!
+2020-08-20 18:02:43,376 - logger - INFO - ----- Epoch 31 train starts now -----
+2020-08-20 18:02:44,457 - logger - INFO - Accuracy of the network: 74 % (256/343)
+2020-08-20 18:02:44,917 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:02:44,917 - logger - INFO - Accuracy of    dark: 75 %
+2020-08-20 18:02:44,978 - logger - INFO - Accuracy of the network: 62 % (30/48)
+2020-08-20 18:02:45,042 - logger - INFO - Accuracy of  bright: 54 %
+2020-08-20 18:02:45,043 - logger - INFO - Accuracy of    dark: 65 %
+2020-08-20 18:02:45,174 - logger - INFO - Accuracy of the network: 66 % (65/98)
+2020-08-20 18:02:45,311 - logger - INFO - Accuracy of  bright: 73 %
+2020-08-20 18:02:45,311 - logger - INFO - Accuracy of    dark: 69 %
+2020-08-20 18:02:45,331 - logger - INFO - Saving epoch 31 model successfully!
+2020-08-20 18:02:45,331 - logger - INFO - ----- Epoch 32 train starts now -----
+2020-08-20 18:02:46,436 - logger - INFO - Accuracy of the network: 74 % (257/343)
+2020-08-20 18:02:46,877 - logger - INFO - Accuracy of  bright: 52 %
+2020-08-20 18:02:46,877 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:02:46,937 - logger - INFO - Accuracy of the network: 79 % (38/48)
+2020-08-20 18:02:46,997 - logger - INFO - Accuracy of  bright: 45 %
+2020-08-20 18:02:46,997 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:02:47,123 - logger - INFO - Accuracy of the network: 71 % (70/98)
+2020-08-20 18:02:47,255 - logger - INFO - Accuracy of  bright: 44 %
+2020-08-20 18:02:47,256 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:02:47,276 - logger - INFO - Saving epoch 32 model successfully!
+2020-08-20 18:02:47,276 - logger - INFO - ----- Epoch 33 train starts now -----
+2020-08-20 18:02:48,363 - logger - INFO - Accuracy of the network: 58 % (201/343)
+2020-08-20 18:02:48,800 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:02:48,800 - logger - INFO - Accuracy of    dark: 29 %
+2020-08-20 18:02:48,858 - logger - INFO - Accuracy of the network: 62 % (30/48)
+2020-08-20 18:02:48,921 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:02:48,921 - logger - INFO - Accuracy of    dark: 15 %
+2020-08-20 18:02:49,047 - logger - INFO - Accuracy of the network: 52 % (51/98)
+2020-08-20 18:02:49,179 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:02:49,179 - logger - INFO - Accuracy of    dark: 15 %
+2020-08-20 18:02:49,199 - logger - INFO - Saving epoch 33 model successfully!
+2020-08-20 18:02:49,199 - logger - INFO - ----- Epoch 34 train starts now -----
+2020-08-20 18:02:50,295 - logger - INFO - Accuracy of the network: 72 % (247/343)
+2020-08-20 18:02:50,734 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:02:50,734 - logger - INFO - Accuracy of    dark: 49 %
+2020-08-20 18:02:50,792 - logger - INFO - Accuracy of the network: 56 % (27/48)
+2020-08-20 18:02:50,852 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:02:50,852 - logger - INFO - Accuracy of    dark: 42 %
+2020-08-20 18:02:50,982 - logger - INFO - Accuracy of the network: 63 % (62/98)
+2020-08-20 18:02:51,113 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:02:51,113 - logger - INFO - Accuracy of    dark: 39 %
+2020-08-20 18:02:51,133 - logger - INFO - Saving epoch 34 model successfully!
+2020-08-20 18:02:51,133 - logger - INFO - ----- Epoch 35 train starts now -----
+2020-08-20 18:02:52,237 - logger - INFO - Accuracy of the network: 77 % (266/343)
+2020-08-20 18:02:52,676 - logger - INFO - Accuracy of  bright: 82 %
+2020-08-20 18:02:52,676 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:02:52,734 - logger - INFO - Accuracy of the network: 70 % (34/48)
+2020-08-20 18:02:52,794 - logger - INFO - Accuracy of  bright: 63 %
+2020-08-20 18:02:52,794 - logger - INFO - Accuracy of    dark: 76 %
+2020-08-20 18:02:52,921 - logger - INFO - Accuracy of the network: 73 % (72/98)
+2020-08-20 18:02:53,056 - logger - INFO - Accuracy of  bright: 68 %
+2020-08-20 18:02:53,056 - logger - INFO - Accuracy of    dark: 69 %
+2020-08-20 18:02:53,076 - logger - INFO - Saving epoch 35 model successfully!
+2020-08-20 18:02:53,076 - logger - INFO - ----- Epoch 36 train starts now -----
+2020-08-20 18:02:54,170 - logger - INFO - Accuracy of the network: 78 % (268/343)
+2020-08-20 18:02:54,603 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:02:54,603 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:02:54,661 - logger - INFO - Accuracy of the network: 75 % (36/48)
+2020-08-20 18:02:54,720 - logger - INFO - Accuracy of  bright: 72 %
+2020-08-20 18:02:54,720 - logger - INFO - Accuracy of    dark: 53 %
+2020-08-20 18:02:54,844 - logger - INFO - Accuracy of the network: 77 % (76/98)
+2020-08-20 18:02:54,978 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:02:54,978 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:02:54,997 - logger - INFO - Saving epoch 36 model successfully!
+2020-08-20 18:02:54,997 - logger - INFO - ----- Epoch 37 train starts now -----
+2020-08-20 18:02:56,088 - logger - INFO - Accuracy of the network: 78 % (269/343)
+2020-08-20 18:02:56,525 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:02:56,525 - logger - INFO - Accuracy of    dark: 72 %
+2020-08-20 18:02:56,583 - logger - INFO - Accuracy of the network: 75 % (36/48)
+2020-08-20 18:02:56,643 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:02:56,643 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:02:56,770 - logger - INFO - Accuracy of the network: 70 % (69/98)
+2020-08-20 18:02:56,905 - logger - INFO - Accuracy of  bright: 68 %
+2020-08-20 18:02:56,906 - logger - INFO - Accuracy of    dark: 58 %
+2020-08-20 18:02:56,925 - logger - INFO - Saving epoch 37 model successfully!
+2020-08-20 18:02:56,925 - logger - INFO - ----- Epoch 38 train starts now -----
+2020-08-20 18:02:58,012 - logger - INFO - Accuracy of the network: 77 % (267/343)
+2020-08-20 18:02:58,448 - logger - INFO - Accuracy of  bright: 75 %
+2020-08-20 18:02:58,448 - logger - INFO - Accuracy of    dark: 87 %
+2020-08-20 18:02:58,508 - logger - INFO - Accuracy of the network: 79 % (38/48)
+2020-08-20 18:02:58,570 - logger - INFO - Accuracy of  bright: 59 %
+2020-08-20 18:02:58,570 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:02:58,695 - logger - INFO - Accuracy of the network: 80 % (79/98)
+2020-08-20 18:02:58,830 - logger - INFO - Accuracy of  bright: 71 %
+2020-08-20 18:02:58,831 - logger - INFO - Accuracy of    dark: 77 %
+2020-08-20 18:02:58,851 - logger - INFO - Saving epoch 38 model successfully!
+2020-08-20 18:02:58,851 - logger - INFO - ----- Epoch 39 train starts now -----
+2020-08-20 18:02:59,944 - logger - INFO - Accuracy of the network: 79 % (271/343)
+2020-08-20 18:03:00,386 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:03:00,386 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:03:00,445 - logger - INFO - Accuracy of the network: 83 % (40/48)
+2020-08-20 18:03:00,505 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:03:00,505 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:03:00,631 - logger - INFO - Accuracy of the network: 75 % (74/98)
+2020-08-20 18:03:00,762 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:03:00,762 - logger - INFO - Accuracy of    dark: 60 %
+2020-08-20 18:03:00,781 - logger - INFO - Saving epoch 39 model successfully!
+2020-08-20 18:03:00,781 - logger - INFO - ----- Epoch 40 train starts now -----
+2020-08-20 18:03:01,860 - logger - INFO - Accuracy of the network: 78 % (270/343)
+2020-08-20 18:03:02,289 - logger - INFO - Accuracy of  bright: 92 %
+2020-08-20 18:03:02,289 - logger - INFO - Accuracy of    dark: 61 %
+2020-08-20 18:03:02,346 - logger - INFO - Accuracy of the network: 75 % (36/48)
+2020-08-20 18:03:02,405 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:03:02,405 - logger - INFO - Accuracy of    dark: 46 %
+2020-08-20 18:03:02,530 - logger - INFO - Accuracy of the network: 67 % (66/98)
+2020-08-20 18:03:02,663 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:03:02,663 - logger - INFO - Accuracy of    dark: 49 %
+2020-08-20 18:03:02,683 - logger - INFO - Saving epoch 40 model successfully!
+2020-08-20 18:03:02,683 - logger - INFO - ----- Epoch 41 train starts now -----
+2020-08-20 18:03:03,776 - logger - INFO - Accuracy of the network: 79 % (271/343)
+2020-08-20 18:03:04,212 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:03:04,212 - logger - INFO - Accuracy of    dark: 69 %
+2020-08-20 18:03:04,270 - logger - INFO - Accuracy of the network: 77 % (37/48)
+2020-08-20 18:03:04,330 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:03:04,330 - logger - INFO - Accuracy of    dark: 50 %
+2020-08-20 18:03:04,457 - logger - INFO - Accuracy of the network: 69 % (68/98)
+2020-08-20 18:03:04,592 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:03:04,592 - logger - INFO - Accuracy of    dark: 47 %
+2020-08-20 18:03:04,613 - logger - INFO - Saving epoch 41 model successfully!
+2020-08-20 18:03:04,613 - logger - INFO - ----- Epoch 42 train starts now -----
+2020-08-20 18:03:05,697 - logger - INFO - Accuracy of the network: 83 % (285/343)
+2020-08-20 18:03:06,122 - logger - INFO - Accuracy of  bright: 79 %
+2020-08-20 18:03:06,122 - logger - INFO - Accuracy of    dark: 87 %
+2020-08-20 18:03:06,182 - logger - INFO - Accuracy of the network: 70 % (34/48)
+2020-08-20 18:03:06,241 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:03:06,241 - logger - INFO - Accuracy of    dark: 76 %
+2020-08-20 18:03:06,362 - logger - INFO - Accuracy of the network: 77 % (76/98)
+2020-08-20 18:03:06,494 - logger - INFO - Accuracy of  bright: 71 %
+2020-08-20 18:03:06,494 - logger - INFO - Accuracy of    dark: 79 %
+2020-08-20 18:03:06,514 - logger - INFO - Saving epoch 42 model successfully!
+2020-08-20 18:03:06,514 - logger - INFO - ----- Epoch 43 train starts now -----
+2020-08-20 18:03:07,598 - logger - INFO - Accuracy of the network: 74 % (254/343)
+2020-08-20 18:03:08,029 - logger - INFO - Accuracy of  bright: 39 %
+2020-08-20 18:03:08,029 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:03:08,087 - logger - INFO - Accuracy of the network: 66 % (32/48)
+2020-08-20 18:03:08,147 - logger - INFO - Accuracy of  bright: 40 %
+2020-08-20 18:03:08,147 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:03:08,275 - logger - INFO - Accuracy of the network: 66 % (65/98)
+2020-08-20 18:03:08,405 - logger - INFO - Accuracy of  bright: 33 %
+2020-08-20 18:03:08,405 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:08,424 - logger - INFO - Saving epoch 43 model successfully!
+2020-08-20 18:03:08,425 - logger - INFO - ----- Epoch 44 train starts now -----
+2020-08-20 18:03:09,521 - logger - INFO - Accuracy of the network: 81 % (280/343)
+2020-08-20 18:03:09,960 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:03:09,961 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:03:10,018 - logger - INFO - Accuracy of the network: 70 % (34/48)
+2020-08-20 18:03:10,078 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:10,079 - logger - INFO - Accuracy of    dark: 69 %
+2020-08-20 18:03:10,206 - logger - INFO - Accuracy of the network: 70 % (69/98)
+2020-08-20 18:03:10,341 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:03:10,341 - logger - INFO - Accuracy of    dark: 79 %
+2020-08-20 18:03:10,361 - logger - INFO - Saving epoch 44 model successfully!
+2020-08-20 18:03:10,361 - logger - INFO - ----- Epoch 45 train starts now -----
+2020-08-20 18:03:11,479 - logger - INFO - Accuracy of the network: 76 % (264/343)
+2020-08-20 18:03:11,934 - logger - INFO - Accuracy of  bright: 61 %
+2020-08-20 18:03:11,934 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:11,994 - logger - INFO - Accuracy of the network: 83 % (40/48)
+2020-08-20 18:03:12,056 - logger - INFO - Accuracy of  bright: 63 %
+2020-08-20 18:03:12,056 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:12,181 - logger - INFO - Accuracy of the network: 75 % (74/98)
+2020-08-20 18:03:12,314 - logger - INFO - Accuracy of  bright: 53 %
+2020-08-20 18:03:12,314 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:03:12,334 - logger - INFO - Saving epoch 45 model successfully!
+2020-08-20 18:03:12,334 - logger - INFO - ----- Epoch 46 train starts now -----
+2020-08-20 18:03:13,542 - logger - INFO - Accuracy of the network: 83 % (288/343)
+2020-08-20 18:03:14,047 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:03:14,047 - logger - INFO - Accuracy of    dark: 81 %
+2020-08-20 18:03:14,116 - logger - INFO - Accuracy of the network: 75 % (36/48)
+2020-08-20 18:03:14,188 - logger - INFO - Accuracy of  bright: 68 %
+2020-08-20 18:03:14,188 - logger - INFO - Accuracy of    dark: 53 %
+2020-08-20 18:03:14,331 - logger - INFO - Accuracy of the network: 73 % (72/98)
+2020-08-20 18:03:14,481 - logger - INFO - Accuracy of  bright: 71 %
+2020-08-20 18:03:14,481 - logger - INFO - Accuracy of    dark: 75 %
+2020-08-20 18:03:14,505 - logger - INFO - Saving epoch 46 model successfully!
+2020-08-20 18:03:14,505 - logger - INFO - ----- Epoch 47 train starts now -----
+2020-08-20 18:03:15,679 - logger - INFO - Accuracy of the network: 83 % (285/343)
+2020-08-20 18:03:16,184 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:03:16,184 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:03:16,253 - logger - INFO - Accuracy of the network: 79 % (38/48)
+2020-08-20 18:03:16,323 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:03:16,324 - logger - INFO - Accuracy of    dark: 53 %
+2020-08-20 18:03:16,467 - logger - INFO - Accuracy of the network: 73 % (72/98)
+2020-08-20 18:03:16,605 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:03:16,605 - logger - INFO - Accuracy of    dark: 60 %
+2020-08-20 18:03:16,626 - logger - INFO - Saving epoch 47 model successfully!
+2020-08-20 18:03:16,626 - logger - INFO - ----- Epoch 48 train starts now -----
+2020-08-20 18:03:17,831 - logger - INFO - Accuracy of the network: 77 % (267/343)
+2020-08-20 18:03:18,280 - logger - INFO - Accuracy of  bright: 58 %
+2020-08-20 18:03:18,281 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:03:18,339 - logger - INFO - Accuracy of the network: 79 % (38/48)
+2020-08-20 18:03:18,399 - logger - INFO - Accuracy of  bright: 63 %
+2020-08-20 18:03:18,399 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:03:18,543 - logger - INFO - Accuracy of the network: 78 % (77/98)
+2020-08-20 18:03:18,682 - logger - INFO - Accuracy of  bright: 46 %
+2020-08-20 18:03:18,682 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:18,701 - logger - INFO - Saving epoch 48 model successfully!
+2020-08-20 18:03:18,701 - logger - INFO - ----- Epoch 49 train starts now -----
+2020-08-20 18:03:19,903 - logger - INFO - Accuracy of the network: 88 % (302/343)
+2020-08-20 18:03:20,359 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:03:20,359 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:03:20,417 - logger - INFO - Accuracy of the network: 77 % (37/48)
+2020-08-20 18:03:20,488 - logger - INFO - Accuracy of  bright: 72 %
+2020-08-20 18:03:20,488 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:03:20,627 - logger - INFO - Accuracy of the network: 78 % (77/98)
+2020-08-20 18:03:20,761 - logger - INFO - Accuracy of  bright: 75 %
+2020-08-20 18:03:20,761 - logger - INFO - Accuracy of    dark: 77 %
+2020-08-20 18:03:20,783 - logger - INFO - Saving epoch 49 model successfully!
+2020-08-20 18:03:20,783 - logger - INFO - ----- Epoch 50 train starts now -----
+2020-08-20 18:03:21,964 - logger - INFO - Accuracy of the network: 88 % (305/343)
+2020-08-20 18:03:22,421 - logger - INFO - Accuracy of  bright: 83 %
+2020-08-20 18:03:22,421 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:03:22,489 - logger - INFO - Accuracy of the network: 87 % (42/48)
+2020-08-20 18:03:22,558 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:03:22,558 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:22,700 - logger - INFO - Accuracy of the network: 77 % (76/98)
+2020-08-20 18:03:22,845 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:03:22,845 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:03:22,868 - logger - INFO - Saving epoch 50 model successfully!
+2020-08-20 18:03:22,868 - logger - INFO - ----- Epoch 51 train starts now -----
+2020-08-20 18:03:23,989 - logger - INFO - Accuracy of the network: 82 % (283/343)
+2020-08-20 18:03:24,415 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:03:24,415 - logger - INFO - Accuracy of    dark: 78 %
+2020-08-20 18:03:24,472 - logger - INFO - Accuracy of the network: 75 % (36/48)
+2020-08-20 18:03:24,533 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:03:24,533 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:03:24,659 - logger - INFO - Accuracy of the network: 78 % (77/98)
+2020-08-20 18:03:24,791 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:03:24,791 - logger - INFO - Accuracy of    dark: 60 %
+2020-08-20 18:03:24,810 - logger - INFO - Saving epoch 51 model successfully!
+2020-08-20 18:03:24,810 - logger - INFO - ----- Epoch 52 train starts now -----
+2020-08-20 18:03:25,996 - logger - INFO - Accuracy of the network: 86 % (298/343)
+2020-08-20 18:03:26,443 - logger - INFO - Accuracy of  bright: 89 %
+2020-08-20 18:03:26,443 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:03:26,501 - logger - INFO - Accuracy of the network: 83 % (40/48)
+2020-08-20 18:03:26,561 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:26,561 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:03:26,692 - logger - INFO - Accuracy of the network: 85 % (84/98)
+2020-08-20 18:03:26,825 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:03:26,825 - logger - INFO - Accuracy of    dark: 81 %
+2020-08-20 18:03:26,846 - logger - INFO - Saving epoch 52 model successfully!
+2020-08-20 18:03:26,846 - logger - INFO - ----- Epoch 53 train starts now -----
+2020-08-20 18:03:27,987 - logger - INFO - Accuracy of the network: 88 % (302/343)
+2020-08-20 18:03:28,425 - logger - INFO - Accuracy of  bright: 89 %
+2020-08-20 18:03:28,425 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:03:28,484 - logger - INFO - Accuracy of the network: 81 % (39/48)
+2020-08-20 18:03:28,544 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:28,544 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:28,671 - logger - INFO - Accuracy of the network: 80 % (79/98)
+2020-08-20 18:03:28,804 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:03:28,804 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:03:28,824 - logger - INFO - Saving epoch 53 model successfully!
+2020-08-20 18:03:28,824 - logger - INFO - ----- Epoch 54 train starts now -----
+2020-08-20 18:03:29,913 - logger - INFO - Accuracy of the network: 82 % (283/343)
+2020-08-20 18:03:30,350 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:03:30,350 - logger - INFO - Accuracy of    dark: 68 %
+2020-08-20 18:03:30,408 - logger - INFO - Accuracy of the network: 72 % (35/48)
+2020-08-20 18:03:30,468 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:03:30,468 - logger - INFO - Accuracy of    dark: 50 %
+2020-08-20 18:03:30,594 - logger - INFO - Accuracy of the network: 71 % (70/98)
+2020-08-20 18:03:30,725 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:03:30,725 - logger - INFO - Accuracy of    dark: 56 %
+2020-08-20 18:03:30,747 - logger - INFO - Saving epoch 54 model successfully!
+2020-08-20 18:03:30,747 - logger - INFO - ----- Epoch 55 train starts now -----
+2020-08-20 18:03:31,834 - logger - INFO - Accuracy of the network: 86 % (298/343)
+2020-08-20 18:03:32,268 - logger - INFO - Accuracy of  bright: 92 %
+2020-08-20 18:03:32,269 - logger - INFO - Accuracy of    dark: 81 %
+2020-08-20 18:03:32,331 - logger - INFO - Accuracy of the network: 81 % (39/48)
+2020-08-20 18:03:32,392 - logger - INFO - Accuracy of  bright: 72 %
+2020-08-20 18:03:32,392 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:03:32,524 - logger - INFO - Accuracy of the network: 75 % (74/98)
+2020-08-20 18:03:32,660 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:03:32,660 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:03:32,683 - logger - INFO - Saving epoch 55 model successfully!
+2020-08-20 18:03:32,683 - logger - INFO - ----- Epoch 56 train starts now -----
+2020-08-20 18:03:33,835 - logger - INFO - Accuracy of the network: 81 % (279/343)
+2020-08-20 18:03:34,300 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:03:34,300 - logger - INFO - Accuracy of    dark: 72 %
+2020-08-20 18:03:34,367 - logger - INFO - Accuracy of the network: 79 % (38/48)
+2020-08-20 18:03:34,434 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:03:34,434 - logger - INFO - Accuracy of    dark: 65 %
+2020-08-20 18:03:34,569 - logger - INFO - Accuracy of the network: 74 % (73/98)
+2020-08-20 18:03:34,708 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:03:34,709 - logger - INFO - Accuracy of    dark: 58 %
+2020-08-20 18:03:34,729 - logger - INFO - Saving epoch 56 model successfully!
+2020-08-20 18:03:34,729 - logger - INFO - ----- Epoch 57 train starts now -----
+2020-08-20 18:03:35,862 - logger - INFO - Accuracy of the network: 91 % (315/343)
+2020-08-20 18:03:36,302 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:03:36,303 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:03:36,360 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:03:36,420 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:36,420 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:03:36,548 - logger - INFO - Accuracy of the network: 82 % (81/98)
+2020-08-20 18:03:36,680 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:03:36,680 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:03:36,700 - logger - INFO - Saving epoch 57 model successfully!
+2020-08-20 18:03:36,700 - logger - INFO - ----- Epoch 58 train starts now -----
+2020-08-20 18:03:37,782 - logger - INFO - Accuracy of the network: 86 % (298/343)
+2020-08-20 18:03:38,213 - logger - INFO - Accuracy of  bright: 78 %
+2020-08-20 18:03:38,213 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:38,270 - logger - INFO - Accuracy of the network: 81 % (39/48)
+2020-08-20 18:03:38,329 - logger - INFO - Accuracy of  bright: 59 %
+2020-08-20 18:03:38,330 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:38,453 - logger - INFO - Accuracy of the network: 79 % (78/98)
+2020-08-20 18:03:38,588 - logger - INFO - Accuracy of  bright: 48 %
+2020-08-20 18:03:38,588 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:03:38,608 - logger - INFO - Saving epoch 58 model successfully!
+2020-08-20 18:03:38,608 - logger - INFO - ----- Epoch 59 train starts now -----
+2020-08-20 18:03:39,697 - logger - INFO - Accuracy of the network: 86 % (298/343)
+2020-08-20 18:03:40,129 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:40,129 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:03:40,187 - logger - INFO - Accuracy of the network: 77 % (37/48)
+2020-08-20 18:03:40,247 - logger - INFO - Accuracy of  bright: 68 %
+2020-08-20 18:03:40,247 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:03:40,371 - logger - INFO - Accuracy of the network: 81 % (80/98)
+2020-08-20 18:03:40,502 - logger - INFO - Accuracy of  bright: 62 %
+2020-08-20 18:03:40,502 - logger - INFO - Accuracy of    dark: 77 %
+2020-08-20 18:03:40,522 - logger - INFO - Saving epoch 59 model successfully!
+2020-08-20 18:03:40,522 - logger - INFO - ----- Epoch 60 train starts now -----
+2020-08-20 18:03:41,605 - logger - INFO - Accuracy of the network: 87 % (301/343)
+2020-08-20 18:03:42,031 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:42,031 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:03:42,091 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:03:42,150 - logger - INFO - Accuracy of  bright: 68 %
+2020-08-20 18:03:42,151 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:03:42,273 - logger - INFO - Accuracy of the network: 85 % (84/98)
+2020-08-20 18:03:42,406 - logger - INFO - Accuracy of  bright: 60 %
+2020-08-20 18:03:42,406 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:42,426 - logger - INFO - Saving epoch 60 model successfully!
+2020-08-20 18:03:42,426 - logger - INFO - ----- Epoch 61 train starts now -----
+2020-08-20 18:03:43,521 - logger - INFO - Accuracy of the network: 92 % (316/343)
+2020-08-20 18:03:43,955 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:43,955 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:03:44,012 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:03:44,073 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:03:44,073 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:03:44,199 - logger - INFO - Accuracy of the network: 85 % (84/98)
+2020-08-20 18:03:44,330 - logger - INFO - Accuracy of  bright: 68 %
+2020-08-20 18:03:44,330 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:03:44,350 - logger - INFO - Saving epoch 61 model successfully!
+2020-08-20 18:03:44,350 - logger - INFO - ----- Epoch 62 train starts now -----
+2020-08-20 18:03:45,438 - logger - INFO - Accuracy of the network: 87 % (300/343)
+2020-08-20 18:03:45,872 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:03:45,873 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:03:45,930 - logger - INFO - Accuracy of the network: 85 % (41/48)
+2020-08-20 18:03:45,990 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:03:45,990 - logger - INFO - Accuracy of    dark: 73 %
+2020-08-20 18:03:46,116 - logger - INFO - Accuracy of the network: 83 % (82/98)
+2020-08-20 18:03:46,249 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:03:46,250 - logger - INFO - Accuracy of    dark: 66 %
+2020-08-20 18:03:46,270 - logger - INFO - Saving epoch 62 model successfully!
+2020-08-20 18:03:46,270 - logger - INFO - ----- Epoch 63 train starts now -----
+2020-08-20 18:03:47,360 - logger - INFO - Accuracy of the network: 91 % (315/343)
+2020-08-20 18:03:47,792 - logger - INFO - Accuracy of  bright: 89 %
+2020-08-20 18:03:47,792 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:47,850 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:03:47,909 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:03:47,909 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:48,035 - logger - INFO - Accuracy of the network: 88 % (87/98)
+2020-08-20 18:03:48,170 - logger - INFO - Accuracy of  bright: 75 %
+2020-08-20 18:03:48,551 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:03:48,576 - logger - INFO - Saving epoch 63 model successfully!
+2020-08-20 18:03:48,576 - logger - INFO - ----- Epoch 64 train starts now -----
+2020-08-20 18:03:49,732 - logger - INFO - Accuracy of the network: 89 % (307/343)
+2020-08-20 18:03:50,213 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:03:50,213 - logger - INFO - Accuracy of    dark: 87 %
+2020-08-20 18:03:50,289 - logger - INFO - Accuracy of the network: 85 % (41/48)
+2020-08-20 18:03:50,366 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:03:50,366 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:03:50,524 - logger - INFO - Accuracy of the network: 84 % (83/98)
+2020-08-20 18:03:50,659 - logger - INFO - Accuracy of  bright: 82 %
+2020-08-20 18:03:50,660 - logger - INFO - Accuracy of    dark: 69 %
+2020-08-20 18:03:50,682 - logger - INFO - Saving epoch 64 model successfully!
+2020-08-20 18:03:50,682 - logger - INFO - ----- Epoch 65 train starts now -----
+2020-08-20 18:03:51,847 - logger - INFO - Accuracy of the network: 90 % (312/343)
+2020-08-20 18:03:52,299 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:03:52,299 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:03:52,359 - logger - INFO - Accuracy of the network: 81 % (39/48)
+2020-08-20 18:03:52,420 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:03:52,420 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:52,550 - logger - INFO - Accuracy of the network: 82 % (81/98)
+2020-08-20 18:03:52,683 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:03:52,683 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:03:52,703 - logger - INFO - Saving epoch 65 model successfully!
+2020-08-20 18:03:52,703 - logger - INFO - ----- Epoch 66 train starts now -----
+2020-08-20 18:03:53,824 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:03:54,262 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:03:54,262 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:03:54,319 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:03:54,378 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:03:54,378 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:54,506 - logger - INFO - Accuracy of the network: 88 % (87/98)
+2020-08-20 18:03:54,637 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:03:54,638 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:03:54,661 - logger - INFO - Saving epoch 66 model successfully!
+2020-08-20 18:03:54,661 - logger - INFO - ----- Epoch 67 train starts now -----
+2020-08-20 18:03:55,760 - logger - INFO - Accuracy of the network: 90 % (311/343)
+2020-08-20 18:03:56,198 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:03:56,198 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:03:56,257 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:03:56,318 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:03:56,318 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:56,444 - logger - INFO - Accuracy of the network: 85 % (84/98)
+2020-08-20 18:03:56,574 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:03:56,575 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:03:56,594 - logger - INFO - Saving epoch 67 model successfully!
+2020-08-20 18:03:56,594 - logger - INFO - ----- Epoch 68 train starts now -----
+2020-08-20 18:03:57,698 - logger - INFO - Accuracy of the network: 93 % (319/343)
+2020-08-20 18:03:58,132 - logger - INFO - Accuracy of  bright: 89 %
+2020-08-20 18:03:58,132 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:03:58,192 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:03:58,252 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:03:58,252 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:58,378 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:03:58,509 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:03:58,509 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:03:58,530 - logger - INFO - Saving epoch 68 model successfully!
+2020-08-20 18:03:58,530 - logger - INFO - ----- Epoch 69 train starts now -----
+2020-08-20 18:03:59,619 - logger - INFO - Accuracy of the network: 89 % (306/343)
+2020-08-20 18:04:00,046 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:04:00,047 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:00,106 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:00,166 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:00,166 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:00,294 - logger - INFO - Accuracy of the network: 84 % (83/98)
+2020-08-20 18:04:00,425 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:00,425 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:04:00,445 - logger - INFO - Saving epoch 69 model successfully!
+2020-08-20 18:04:00,445 - logger - INFO - ----- Epoch 70 train starts now -----
+2020-08-20 18:04:01,541 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:04:01,973 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:01,973 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:04:02,031 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:02,093 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:02,093 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:02,219 - logger - INFO - Accuracy of the network: 88 % (87/98)
+2020-08-20 18:04:02,352 - logger - INFO - Accuracy of  bright: 75 %
+2020-08-20 18:04:02,352 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:02,371 - logger - INFO - Saving epoch 70 model successfully!
+2020-08-20 18:04:02,371 - logger - INFO - ----- Epoch 71 train starts now -----
+2020-08-20 18:04:03,478 - logger - INFO - Accuracy of the network: 94 % (323/343)
+2020-08-20 18:04:03,921 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:03,921 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:04:03,981 - logger - INFO - Accuracy of the network: 87 % (42/48)
+2020-08-20 18:04:04,041 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:04,041 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:04,170 - logger - INFO - Accuracy of the network: 88 % (87/98)
+2020-08-20 18:04:04,305 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:04,305 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:04:04,327 - logger - INFO - Saving epoch 71 model successfully!
+2020-08-20 18:04:04,327 - logger - INFO - ----- Epoch 72 train starts now -----
+2020-08-20 18:04:05,412 - logger - INFO - Accuracy of the network: 96 % (330/343)
+2020-08-20 18:04:05,840 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:04:05,840 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:04:05,897 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:04:05,956 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:05,957 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:04:06,079 - logger - INFO - Accuracy of the network: 90 % (89/98)
+2020-08-20 18:04:06,213 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:04:06,213 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:06,233 - logger - INFO - Saving epoch 72 model successfully!
+2020-08-20 18:04:06,234 - logger - INFO - ----- Epoch 73 train starts now -----
+2020-08-20 18:04:07,323 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:04:07,755 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:04:07,755 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:04:07,813 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:04:07,872 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:07,873 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:07,997 - logger - INFO - Accuracy of the network: 87 % (86/98)
+2020-08-20 18:04:08,129 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:04:08,129 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:04:08,152 - logger - INFO - Saving epoch 73 model successfully!
+2020-08-20 18:04:08,152 - logger - INFO - ----- Epoch 74 train starts now -----
+2020-08-20 18:04:09,254 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:04:09,698 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:04:09,698 - logger - INFO - Accuracy of    dark: 89 %
+2020-08-20 18:04:09,756 - logger - INFO - Accuracy of the network: 85 % (41/48)
+2020-08-20 18:04:09,821 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:09,821 - logger - INFO - Accuracy of    dark: 76 %
+2020-08-20 18:04:09,948 - logger - INFO - Accuracy of the network: 87 % (86/98)
+2020-08-20 18:04:10,082 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:10,083 - logger - INFO - Accuracy of    dark: 71 %
+2020-08-20 18:04:10,103 - logger - INFO - Saving epoch 74 model successfully!
+2020-08-20 18:04:10,104 - logger - INFO - ----- Epoch 75 train starts now -----
+2020-08-20 18:04:11,200 - logger - INFO - Accuracy of the network: 92 % (316/343)
+2020-08-20 18:04:11,637 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:04:11,637 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:04:11,696 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:04:11,756 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:11,756 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:11,880 - logger - INFO - Accuracy of the network: 85 % (84/98)
+2020-08-20 18:04:12,012 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:12,013 - logger - INFO - Accuracy of    dark: 67 %
+2020-08-20 18:04:12,034 - logger - INFO - Saving epoch 75 model successfully!
+2020-08-20 18:04:12,034 - logger - INFO - ----- Epoch 76 train starts now -----
+2020-08-20 18:04:13,128 - logger - INFO - Accuracy of the network: 91 % (314/343)
+2020-08-20 18:04:13,558 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:04:13,558 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:04:13,616 - logger - INFO - Accuracy of the network: 83 % (40/48)
+2020-08-20 18:04:13,675 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:13,675 - logger - INFO - Accuracy of    dark: 76 %
+2020-08-20 18:04:13,798 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:04:13,933 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:13,933 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:13,953 - logger - INFO - Saving epoch 76 model successfully!
+2020-08-20 18:04:13,953 - logger - INFO - ----- Epoch 77 train starts now -----
+2020-08-20 18:04:15,044 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:04:15,478 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:04:15,478 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:15,538 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:04:15,599 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:04:15,599 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:15,726 - logger - INFO - Accuracy of the network: 82 % (81/98)
+2020-08-20 18:04:15,856 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:04:15,856 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:04:15,876 - logger - INFO - Saving epoch 77 model successfully!
+2020-08-20 18:04:15,876 - logger - INFO - ----- Epoch 78 train starts now -----
+2020-08-20 18:04:16,966 - logger - INFO - Accuracy of the network: 93 % (319/343)
+2020-08-20 18:04:17,396 - logger - INFO - Accuracy of  bright: 92 %
+2020-08-20 18:04:17,397 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:17,454 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:04:17,513 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:17,513 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:17,640 - logger - INFO - Accuracy of the network: 86 % (85/98)
+2020-08-20 18:04:17,774 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:17,774 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:17,794 - logger - INFO - Saving epoch 78 model successfully!
+2020-08-20 18:04:17,794 - logger - INFO - ----- Epoch 79 train starts now -----
+2020-08-20 18:04:18,893 - logger - INFO - Accuracy of the network: 94 % (325/343)
+2020-08-20 18:04:19,328 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:04:19,329 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:19,386 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:19,446 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:19,446 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:19,571 - logger - INFO - Accuracy of the network: 83 % (82/98)
+2020-08-20 18:04:19,705 - logger - INFO - Accuracy of  bright: 80 %
+2020-08-20 18:04:19,705 - logger - INFO - Accuracy of    dark: 81 %
+2020-08-20 18:04:19,725 - logger - INFO - Saving epoch 79 model successfully!
+2020-08-20 18:04:19,725 - logger - INFO - ----- Epoch 80 train starts now -----
+2020-08-20 18:04:20,808 - logger - INFO - Accuracy of the network: 92 % (318/343)
+2020-08-20 18:04:21,234 - logger - INFO - Accuracy of  bright: 87 %
+2020-08-20 18:04:21,234 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:04:21,292 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:04:21,351 - logger - INFO - Accuracy of  bright: 72 %
+2020-08-20 18:04:21,351 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:21,475 - logger - INFO - Accuracy of the network: 86 % (85/98)
+2020-08-20 18:04:21,608 - logger - INFO - Accuracy of  bright: 82 %
+2020-08-20 18:04:21,608 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:21,628 - logger - INFO - Saving epoch 80 model successfully!
+2020-08-20 18:04:21,628 - logger - INFO - ----- Epoch 81 train starts now -----
+2020-08-20 18:04:22,723 - logger - INFO - Accuracy of the network: 91 % (315/343)
+2020-08-20 18:04:23,160 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:04:23,160 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:23,218 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:23,278 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:23,278 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:23,405 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:04:23,536 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:04:23,536 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:04:23,559 - logger - INFO - Saving epoch 81 model successfully!
+2020-08-20 18:04:23,563 - logger - INFO - ----- Epoch 82 train starts now -----
+2020-08-20 18:04:24,656 - logger - INFO - Accuracy of the network: 93 % (320/343)
+2020-08-20 18:04:25,088 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:25,088 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:04:25,146 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:04:25,206 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:25,206 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:04:25,330 - logger - INFO - Accuracy of the network: 87 % (86/98)
+2020-08-20 18:04:25,462 - logger - INFO - Accuracy of  bright: 71 %
+2020-08-20 18:04:25,462 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:25,481 - logger - INFO - Saving epoch 82 model successfully!
+2020-08-20 18:04:25,481 - logger - INFO - ----- Epoch 83 train starts now -----
+2020-08-20 18:04:26,575 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:04:27,009 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:04:27,009 - logger - INFO - Accuracy of    dark: 89 %
+2020-08-20 18:04:27,069 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:27,129 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:27,129 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:27,256 - logger - INFO - Accuracy of the network: 85 % (84/98)
+2020-08-20 18:04:27,391 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:27,391 - logger - INFO - Accuracy of    dark: 79 %
+2020-08-20 18:04:27,412 - logger - INFO - Saving epoch 83 model successfully!
+2020-08-20 18:04:27,412 - logger - INFO - ----- Epoch 84 train starts now -----
+2020-08-20 18:04:28,499 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:04:28,928 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:28,929 - logger - INFO - Accuracy of    dark: 93 %
+2020-08-20 18:04:28,986 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:04:29,045 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:29,045 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:29,169 - logger - INFO - Accuracy of the network: 82 % (81/98)
+2020-08-20 18:04:29,301 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:29,301 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:04:29,320 - logger - INFO - Saving epoch 84 model successfully!
+2020-08-20 18:04:29,321 - logger - INFO - ----- Epoch 85 train starts now -----
+2020-08-20 18:04:30,404 - logger - INFO - Accuracy of the network: 96 % (330/343)
+2020-08-20 18:04:30,838 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:04:30,838 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:04:30,896 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:04:30,955 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:30,956 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:31,079 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:04:31,211 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:31,211 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:04:31,230 - logger - INFO - Saving epoch 85 model successfully!
+2020-08-20 18:04:31,231 - logger - INFO - ----- Epoch 86 train starts now -----
+2020-08-20 18:04:32,329 - logger - INFO - Accuracy of the network: 94 % (325/343)
+2020-08-20 18:04:32,764 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:04:32,764 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:04:32,822 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:04:32,882 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:32,882 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:33,008 - logger - INFO - Accuracy of the network: 85 % (84/98)
+2020-08-20 18:04:33,141 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:33,142 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:33,161 - logger - INFO - Saving epoch 86 model successfully!
+2020-08-20 18:04:33,161 - logger - INFO - ----- Epoch 87 train starts now -----
+2020-08-20 18:04:34,249 - logger - INFO - Accuracy of the network: 94 % (324/343)
+2020-08-20 18:04:34,683 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:04:34,683 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:04:34,741 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:34,800 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:34,800 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:34,926 - logger - INFO - Accuracy of the network: 88 % (87/98)
+2020-08-20 18:04:35,057 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:35,057 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:35,078 - logger - INFO - Saving epoch 87 model successfully!
+2020-08-20 18:04:35,078 - logger - INFO - ----- Epoch 88 train starts now -----
+2020-08-20 18:04:36,158 - logger - INFO - Accuracy of the network: 95 % (329/343)
+2020-08-20 18:04:36,588 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:04:36,588 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:04:36,646 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:04:36,705 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:36,705 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:36,827 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:04:36,958 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:36,958 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:36,978 - logger - INFO - Saving epoch 88 model successfully!
+2020-08-20 18:04:36,978 - logger - INFO - ----- Epoch 89 train starts now -----
+2020-08-20 18:04:38,071 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:04:38,505 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:04:38,505 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:04:38,565 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:04:38,626 - logger - INFO - Accuracy of  bright: 77 %
+2020-08-20 18:04:38,626 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:04:38,753 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:04:38,883 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:04:38,883 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:38,904 - logger - INFO - Saving epoch 89 model successfully!
+2020-08-20 18:04:38,904 - logger - INFO - ----- Epoch 90 train starts now -----
+2020-08-20 18:04:39,985 - logger - INFO - Accuracy of the network: 96 % (331/343)
+2020-08-20 18:04:40,416 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:04:40,416 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:04:40,473 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:40,532 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:40,532 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:04:40,661 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:04:40,793 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:40,793 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:04:40,813 - logger - INFO - Saving epoch 90 model successfully!
+2020-08-20 18:04:40,813 - logger - INFO - ----- Epoch 91 train starts now -----
+2020-08-20 18:04:41,911 - logger - INFO - Accuracy of the network: 92 % (318/343)
+2020-08-20 18:04:42,349 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:04:42,349 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:04:42,407 - logger - INFO - Accuracy of the network: 87 % (42/48)
+2020-08-20 18:04:42,468 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:42,468 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:42,594 - logger - INFO - Accuracy of the network: 88 % (87/98)
+2020-08-20 18:04:42,729 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:42,729 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:42,749 - logger - INFO - Saving epoch 91 model successfully!
+2020-08-20 18:04:42,749 - logger - INFO - ----- Epoch 92 train starts now -----
+2020-08-20 18:04:43,837 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:04:44,267 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:44,267 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:44,324 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:04:44,383 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:44,383 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:44,505 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:04:44,641 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:44,641 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:04:44,662 - logger - INFO - Saving epoch 92 model successfully!
+2020-08-20 18:04:44,662 - logger - INFO - ----- Epoch 93 train starts now -----
+2020-08-20 18:04:45,742 - logger - INFO - Accuracy of the network: 94 % (325/343)
+2020-08-20 18:04:46,170 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:04:46,170 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:04:46,227 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:04:46,286 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:46,286 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:04:46,410 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:04:46,542 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:46,542 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:04:46,563 - logger - INFO - Saving epoch 93 model successfully!
+2020-08-20 18:04:46,563 - logger - INFO - ----- Epoch 94 train starts now -----
+2020-08-20 18:04:47,657 - logger - INFO - Accuracy of the network: 96 % (332/343)
+2020-08-20 18:04:48,093 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:04:48,093 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:48,151 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:04:48,211 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:48,211 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:48,337 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:04:48,469 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:04:48,469 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:04:48,488 - logger - INFO - Saving epoch 94 model successfully!
+2020-08-20 18:04:48,489 - logger - INFO - ----- Epoch 95 train starts now -----
+2020-08-20 18:04:49,603 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:04:50,037 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:04:50,037 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:04:50,098 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:50,158 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:50,158 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:04:50,284 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:04:50,418 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:50,418 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:04:50,437 - logger - INFO - Saving epoch 95 model successfully!
+2020-08-20 18:04:50,437 - logger - INFO - ----- Epoch 96 train starts now -----
+2020-08-20 18:04:51,535 - logger - INFO - Accuracy of the network: 94 % (325/343)
+2020-08-20 18:04:51,973 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:04:51,973 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:04:52,032 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:04:52,095 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:52,095 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:04:52,221 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:04:52,355 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:04:52,355 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:04:52,375 - logger - INFO - Saving epoch 96 model successfully!
+2020-08-20 18:04:52,375 - logger - INFO - ----- Epoch 97 train starts now -----
+2020-08-20 18:04:53,458 - logger - INFO - Accuracy of the network: 94 % (323/343)
+2020-08-20 18:04:53,892 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:04:53,892 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:53,950 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:04:54,009 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:04:54,009 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:54,137 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:04:54,268 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:04:54,268 - logger - INFO - Accuracy of    dark: 81 %
+2020-08-20 18:04:54,287 - logger - INFO - Saving epoch 97 model successfully!
+2020-08-20 18:04:54,288 - logger - INFO - ----- Epoch 98 train starts now -----
+2020-08-20 18:04:55,382 - logger - INFO - Accuracy of the network: 96 % (330/343)
+2020-08-20 18:04:55,812 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:04:55,812 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:55,869 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:04:55,928 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:04:55,928 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:04:56,050 - logger - INFO - Accuracy of the network: 92 % (91/98)
+2020-08-20 18:04:56,184 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:56,184 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:04:56,204 - logger - INFO - Saving epoch 98 model successfully!
+2020-08-20 18:04:56,204 - logger - INFO - ----- Epoch 99 train starts now -----
+2020-08-20 18:04:57,300 - logger - INFO - Accuracy of the network: 95 % (329/343)
+2020-08-20 18:04:57,736 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:57,737 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:04:57,795 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:04:57,855 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:04:57,855 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:04:57,981 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:04:58,115 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:04:58,115 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:04:58,135 - logger - INFO - Saving epoch 99 model successfully!
+2020-08-20 18:04:58,135 - logger - INFO - ----- Epoch 100 train starts now -----
+2020-08-20 18:04:59,226 - logger - INFO - Accuracy of the network: 95 % (327/343)
+2020-08-20 18:04:59,656 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:59,656 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:04:59,713 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:04:59,772 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:04:59,772 - logger - INFO - Accuracy of    dark: 76 %
+2020-08-20 18:04:59,894 - logger - INFO - Accuracy of the network: 87 % (86/98)
+2020-08-20 18:05:00,025 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:00,025 - logger - INFO - Accuracy of    dark: 75 %
+2020-08-20 18:05:00,045 - logger - INFO - Saving epoch 100 model successfully!
+2020-08-20 18:05:00,045 - logger - INFO - ----- Epoch 101 train starts now -----
+2020-08-20 18:05:01,147 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:05:01,583 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:01,583 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:01,643 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:01,703 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:01,703 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:01,829 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:05:01,961 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:01,961 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:05:01,980 - logger - INFO - Saving epoch 101 model successfully!
+2020-08-20 18:05:01,981 - logger - INFO - ----- Epoch 102 train starts now -----
+2020-08-20 18:05:03,066 - logger - INFO - Accuracy of the network: 96 % (332/343)
+2020-08-20 18:05:03,497 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:05:03,497 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:03,555 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:03,616 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:05:03,616 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:03,739 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:05:03,871 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:03,925 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:03,980 - logger - INFO - Saving epoch 102 model successfully!
+2020-08-20 18:05:03,980 - logger - INFO - ----- Epoch 103 train starts now -----
+2020-08-20 18:05:05,075 - logger - INFO - Accuracy of the network: 95 % (327/343)
+2020-08-20 18:05:05,504 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:05,504 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:05,562 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:05,624 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:05,624 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:05,747 - logger - INFO - Accuracy of the network: 97 % (96/98)
+2020-08-20 18:05:05,877 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:05,877 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:05:05,896 - logger - INFO - Saving epoch 103 model successfully!
+2020-08-20 18:05:05,896 - logger - INFO - ----- Epoch 104 train starts now -----
+2020-08-20 18:05:06,992 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:05:07,431 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:07,431 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:07,489 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:07,549 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:07,550 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:07,681 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:05:07,816 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:05:07,817 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:07,837 - logger - INFO - Saving epoch 104 model successfully!
+2020-08-20 18:05:07,837 - logger - INFO - ----- Epoch 105 train starts now -----
+2020-08-20 18:05:08,925 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:05:09,361 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:05:09,361 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:09,418 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:09,478 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:05:09,478 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:09,601 - logger - INFO - Accuracy of the network: 92 % (91/98)
+2020-08-20 18:05:09,735 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:05:09,735 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:09,755 - logger - INFO - Saving epoch 105 model successfully!
+2020-08-20 18:05:09,755 - logger - INFO - ----- Epoch 106 train starts now -----
+2020-08-20 18:05:10,850 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:05:11,290 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:11,290 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:05:11,348 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:05:11,408 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:11,408 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:11,532 - logger - INFO - Accuracy of the network: 81 % (80/98)
+2020-08-20 18:05:11,667 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:11,667 - logger - INFO - Accuracy of    dark: 75 %
+2020-08-20 18:05:11,688 - logger - INFO - Saving epoch 106 model successfully!
+2020-08-20 18:05:11,688 - logger - INFO - ----- Epoch 107 train starts now -----
+2020-08-20 18:05:12,774 - logger - INFO - Accuracy of the network: 95 % (327/343)
+2020-08-20 18:05:13,206 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:13,206 - logger - INFO - Accuracy of    dark: 89 %
+2020-08-20 18:05:13,264 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:05:13,323 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:13,324 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:13,447 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:05:13,578 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:13,578 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:05:13,599 - logger - INFO - Saving epoch 107 model successfully!
+2020-08-20 18:05:13,599 - logger - INFO - ----- Epoch 108 train starts now -----
+2020-08-20 18:05:14,698 - logger - INFO - Accuracy of the network: 95 % (328/343)
+2020-08-20 18:05:15,132 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:15,132 - logger - INFO - Accuracy of    dark: 91 %
+2020-08-20 18:05:15,189 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:05:15,249 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:15,249 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:15,372 - logger - INFO - Accuracy of the network: 88 % (87/98)
+2020-08-20 18:05:15,505 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:15,505 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:15,525 - logger - INFO - Saving epoch 108 model successfully!
+2020-08-20 18:05:15,525 - logger - INFO - ----- Epoch 109 train starts now -----
+2020-08-20 18:05:16,621 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:05:17,050 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:05:17,050 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:17,110 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:17,170 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:05:17,170 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:17,296 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:05:17,425 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:17,425 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:05:17,446 - logger - INFO - Saving epoch 109 model successfully!
+2020-08-20 18:05:17,446 - logger - INFO - ----- Epoch 110 train starts now -----
+2020-08-20 18:05:18,544 - logger - INFO - Accuracy of the network: 93 % (322/343)
+2020-08-20 18:05:18,984 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:18,984 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:05:19,042 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:05:19,103 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:19,103 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:05:19,232 - logger - INFO - Accuracy of the network: 92 % (91/98)
+2020-08-20 18:05:19,363 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:19,363 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:05:19,382 - logger - INFO - Saving epoch 110 model successfully!
+2020-08-20 18:05:19,382 - logger - INFO - ----- Epoch 111 train starts now -----
+2020-08-20 18:05:20,470 - logger - INFO - Accuracy of the network: 96 % (330/343)
+2020-08-20 18:05:20,906 - logger - INFO - Accuracy of  bright: 92 %
+2020-08-20 18:05:20,906 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:20,964 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:05:21,024 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:05:21,024 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:21,150 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:05:21,285 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:21,285 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:05:21,305 - logger - INFO - Saving epoch 111 model successfully!
+2020-08-20 18:05:21,305 - logger - INFO - ----- Epoch 112 train starts now -----
+2020-08-20 18:05:22,391 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:05:22,821 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:22,821 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:22,878 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:22,937 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:05:22,938 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:23,061 - logger - INFO - Accuracy of the network: 90 % (89/98)
+2020-08-20 18:05:23,192 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:05:23,192 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:05:23,212 - logger - INFO - Saving epoch 112 model successfully!
+2020-08-20 18:05:23,212 - logger - INFO - ----- Epoch 113 train starts now -----
+2020-08-20 18:05:24,290 - logger - INFO - Accuracy of the network: 96 % (331/343)
+2020-08-20 18:05:24,721 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:05:24,721 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:05:24,778 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:24,838 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:24,838 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:24,960 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:05:25,093 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:25,093 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:05:25,113 - logger - INFO - Saving epoch 113 model successfully!
+2020-08-20 18:05:25,113 - logger - INFO - ----- Epoch 114 train starts now -----
+2020-08-20 18:05:26,212 - logger - INFO - Accuracy of the network: 94 % (324/343)
+2020-08-20 18:05:26,648 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:05:26,648 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:26,707 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:05:26,767 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:05:26,767 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:26,893 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:05:27,026 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:05:27,026 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:27,046 - logger - INFO - Saving epoch 114 model successfully!
+2020-08-20 18:05:27,046 - logger - INFO - ----- Epoch 115 train starts now -----
+2020-08-20 18:05:28,140 - logger - INFO - Accuracy of the network: 95 % (326/343)
+2020-08-20 18:05:28,567 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:05:28,567 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:28,627 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:05:28,686 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:28,686 - logger - INFO - Accuracy of    dark: 80 %
+2020-08-20 18:05:28,809 - logger - INFO - Accuracy of the network: 87 % (86/98)
+2020-08-20 18:05:28,941 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:28,941 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:28,960 - logger - INFO - Saving epoch 115 model successfully!
+2020-08-20 18:05:28,960 - logger - INFO - ----- Epoch 116 train starts now -----
+2020-08-20 18:05:30,052 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:05:30,486 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:05:30,486 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:30,544 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:30,603 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:30,603 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:30,729 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:05:30,861 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:30,861 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:30,881 - logger - INFO - Saving epoch 116 model successfully!
+2020-08-20 18:05:30,881 - logger - INFO - ----- Epoch 117 train starts now -----
+2020-08-20 18:05:31,972 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:05:32,413 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:32,413 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:32,472 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:32,531 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:32,532 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:32,657 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:05:32,790 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:32,790 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:32,809 - logger - INFO - Saving epoch 117 model successfully!
+2020-08-20 18:05:32,809 - logger - INFO - ----- Epoch 118 train starts now -----
+2020-08-20 18:05:33,906 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:05:34,340 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:34,340 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:05:34,398 - logger - INFO - Accuracy of the network: 87 % (42/48)
+2020-08-20 18:05:34,458 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:34,458 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:34,583 - logger - INFO - Accuracy of the network: 92 % (91/98)
+2020-08-20 18:05:34,717 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:34,717 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:34,737 - logger - INFO - Saving epoch 118 model successfully!
+2020-08-20 18:05:34,737 - logger - INFO - ----- Epoch 119 train starts now -----
+2020-08-20 18:05:35,821 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:05:36,250 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:36,250 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:36,307 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:36,366 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:05:36,366 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:36,490 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:05:36,621 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:36,622 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:36,642 - logger - INFO - Saving epoch 119 model successfully!
+2020-08-20 18:05:36,642 - logger - INFO - ----- Epoch 120 train starts now -----
+2020-08-20 18:05:37,724 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:05:38,157 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:38,157 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:38,215 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:38,274 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:05:38,274 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:05:38,400 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:05:38,531 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:05:38,531 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:05:38,551 - logger - INFO - Saving epoch 120 model successfully!
+2020-08-20 18:05:38,551 - logger - INFO - ----- Epoch 121 train starts now -----
+2020-08-20 18:05:39,637 - logger - INFO - Accuracy of the network: 96 % (332/343)
+2020-08-20 18:05:40,064 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:40,064 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:40,122 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:40,183 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:40,183 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:40,308 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:05:40,439 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:40,439 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:40,461 - logger - INFO - Saving epoch 121 model successfully!
+2020-08-20 18:05:40,461 - logger - INFO - ----- Epoch 122 train starts now -----
+2020-08-20 18:05:41,551 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:05:41,984 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:41,984 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:42,041 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:42,100 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:05:42,101 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:42,228 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:05:42,358 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:42,358 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:42,378 - logger - INFO - Saving epoch 122 model successfully!
+2020-08-20 18:05:42,378 - logger - INFO - ----- Epoch 123 train starts now -----
+2020-08-20 18:05:43,467 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:05:43,901 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:43,901 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:43,958 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:05:44,017 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:44,017 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:44,145 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:05:44,273 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:44,273 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:44,293 - logger - INFO - Saving epoch 123 model successfully!
+2020-08-20 18:05:44,293 - logger - INFO - ----- Epoch 124 train starts now -----
+2020-08-20 18:05:45,389 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:05:45,825 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:45,825 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:05:45,883 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:05:45,943 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:05:45,943 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:05:46,070 - logger - INFO - Accuracy of the network: 92 % (91/98)
+2020-08-20 18:05:46,205 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:46,205 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:46,226 - logger - INFO - Saving epoch 124 model successfully!
+2020-08-20 18:05:46,226 - logger - INFO - ----- Epoch 125 train starts now -----
+2020-08-20 18:05:47,302 - logger - INFO - Accuracy of the network: 97 % (335/343)
+2020-08-20 18:05:47,731 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:05:47,731 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:47,788 - logger - INFO - Accuracy of the network: 87 % (42/48)
+2020-08-20 18:05:47,847 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:47,847 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:47,971 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:05:48,104 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:48,104 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:48,125 - logger - INFO - Saving epoch 125 model successfully!
+2020-08-20 18:05:48,126 - logger - INFO - ----- Epoch 126 train starts now -----
+2020-08-20 18:05:49,218 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:05:49,652 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:05:49,652 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:05:49,709 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:05:49,769 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:05:49,769 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:49,893 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:05:50,026 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:50,026 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:50,046 - logger - INFO - Saving epoch 126 model successfully!
+2020-08-20 18:05:50,046 - logger - INFO - ----- Epoch 127 train starts now -----
+2020-08-20 18:05:51,131 - logger - INFO - Accuracy of the network: 97 % (333/343)
+2020-08-20 18:05:51,560 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:51,560 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:51,617 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:05:51,679 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:51,679 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:51,803 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:05:51,935 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:51,935 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:51,955 - logger - INFO - Saving epoch 127 model successfully!
+2020-08-20 18:05:51,955 - logger - INFO - ----- Epoch 128 train starts now -----
+2020-08-20 18:05:53,044 - logger - INFO - Accuracy of the network: 96 % (332/343)
+2020-08-20 18:05:53,484 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:53,484 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:05:53,542 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:05:53,602 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:53,602 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:53,731 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:05:53,865 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:53,865 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:53,885 - logger - INFO - Saving epoch 128 model successfully!
+2020-08-20 18:05:53,885 - logger - INFO - ----- Epoch 129 train starts now -----
+2020-08-20 18:05:54,979 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:05:55,413 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:05:55,413 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:05:55,471 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:05:55,530 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:05:55,530 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:05:55,652 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:05:55,786 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:55,786 - logger - INFO - Accuracy of    dark: 81 %
+2020-08-20 18:05:55,805 - logger - INFO - Saving epoch 129 model successfully!
+2020-08-20 18:05:55,806 - logger - INFO - ----- Epoch 130 train starts now -----
+2020-08-20 18:05:56,894 - logger - INFO - Accuracy of the network: 97 % (335/343)
+2020-08-20 18:05:57,324 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:05:57,324 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:57,381 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:05:57,440 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:57,440 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:57,564 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:05:57,699 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:05:57,699 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:05:57,719 - logger - INFO - Saving epoch 130 model successfully!
+2020-08-20 18:05:57,719 - logger - INFO - ----- Epoch 131 train starts now -----
+2020-08-20 18:05:58,815 - logger - INFO - Accuracy of the network: 96 % (331/343)
+2020-08-20 18:05:59,251 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:05:59,251 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:05:59,310 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:05:59,370 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:05:59,370 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:05:59,497 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:05:59,628 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:05:59,628 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:05:59,651 - logger - INFO - Saving epoch 131 model successfully!
+2020-08-20 18:05:59,651 - logger - INFO - ----- Epoch 132 train starts now -----
+2020-08-20 18:06:00,755 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:06:01,184 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:01,184 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:06:01,242 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:06:01,303 - logger - INFO - Accuracy of  bright: 81 %
+2020-08-20 18:06:01,303 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:01,430 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:06:01,561 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:06:01,561 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:01,581 - logger - INFO - Saving epoch 132 model successfully!
+2020-08-20 18:06:01,581 - logger - INFO - ----- Epoch 133 train starts now -----
+2020-08-20 18:06:02,662 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:06:03,089 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:03,089 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:03,147 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:06:03,208 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:03,208 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:03,332 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:06:03,464 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:03,464 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:03,484 - logger - INFO - Saving epoch 133 model successfully!
+2020-08-20 18:06:03,485 - logger - INFO - ----- Epoch 134 train starts now -----
+2020-08-20 18:06:04,635 - logger - INFO - Accuracy of the network: 97 % (335/343)
+2020-08-20 18:06:05,085 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:06:05,085 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:05,144 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:05,206 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:06:05,206 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:05,342 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:06:05,478 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:06:05,479 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:05,501 - logger - INFO - Saving epoch 134 model successfully!
+2020-08-20 18:06:05,501 - logger - INFO - ----- Epoch 135 train starts now -----
+2020-08-20 18:06:06,689 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:06:07,159 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:07,159 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:07,225 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:06:07,293 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:07,293 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:07,431 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:07,573 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:06:07,573 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:07,596 - logger - INFO - Saving epoch 135 model successfully!
+2020-08-20 18:06:07,596 - logger - INFO - ----- Epoch 136 train starts now -----
+2020-08-20 18:06:08,733 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:06:09,217 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:09,217 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:06:09,283 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:09,350 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:09,350 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:09,488 - logger - INFO - Accuracy of the network: 90 % (89/98)
+2020-08-20 18:06:09,630 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:06:09,630 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:06:09,653 - logger - INFO - Saving epoch 136 model successfully!
+2020-08-20 18:06:09,654 - logger - INFO - ----- Epoch 137 train starts now -----
+2020-08-20 18:06:10,785 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:06:11,242 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:11,242 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:11,307 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:06:11,375 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:11,375 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:11,511 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:11,652 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:11,652 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:11,675 - logger - INFO - Saving epoch 137 model successfully!
+2020-08-20 18:06:11,675 - logger - INFO - ----- Epoch 138 train starts now -----
+2020-08-20 18:06:12,846 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:06:13,332 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:06:13,332 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:06:13,398 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:06:13,465 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:06:13,465 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:13,594 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:06:13,724 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:13,724 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:13,744 - logger - INFO - Saving epoch 138 model successfully!
+2020-08-20 18:06:13,744 - logger - INFO - ----- Epoch 139 train starts now -----
+2020-08-20 18:06:15,059 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:06:15,551 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:15,551 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:15,615 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:06:15,675 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:06:15,675 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:15,802 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:06:15,928 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:15,928 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:06:15,948 - logger - INFO - Saving epoch 139 model successfully!
+2020-08-20 18:06:15,948 - logger - INFO - ----- Epoch 140 train starts now -----
+2020-08-20 18:06:17,044 - logger - INFO - Accuracy of the network: 96 % (331/343)
+2020-08-20 18:06:17,481 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:06:17,481 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:17,539 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:06:17,602 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:17,602 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:17,728 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:06:17,870 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:17,870 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:17,894 - logger - INFO - Saving epoch 140 model successfully!
+2020-08-20 18:06:17,894 - logger - INFO - ----- Epoch 141 train starts now -----
+2020-08-20 18:06:19,056 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:06:19,510 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:19,510 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:19,570 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:06:19,632 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:19,632 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:19,758 - logger - INFO - Accuracy of the network: 97 % (96/98)
+2020-08-20 18:06:19,892 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:19,893 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:19,912 - logger - INFO - Saving epoch 141 model successfully!
+2020-08-20 18:06:19,912 - logger - INFO - ----- Epoch 142 train starts now -----
+2020-08-20 18:06:21,014 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:06:21,448 - logger - INFO - Accuracy of  bright: 94 %
+2020-08-20 18:06:21,448 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:06:21,608 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:06:21,670 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:21,670 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:21,803 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:21,932 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:06:21,932 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:21,954 - logger - INFO - Saving epoch 142 model successfully!
+2020-08-20 18:06:21,954 - logger - INFO - ----- Epoch 143 train starts now -----
+2020-08-20 18:06:23,053 - logger - INFO - Accuracy of the network: 98 % (338/343)
+2020-08-20 18:06:23,489 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:23,489 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:06:23,547 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:06:23,607 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:23,607 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:23,735 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:06:23,868 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:23,868 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:06:23,888 - logger - INFO - Saving epoch 143 model successfully!
+2020-08-20 18:06:23,888 - logger - INFO - ----- Epoch 144 train starts now -----
+2020-08-20 18:06:24,988 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:06:25,427 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:25,428 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:25,486 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:25,545 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:25,545 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:25,670 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:25,808 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:25,808 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:25,828 - logger - INFO - Saving epoch 144 model successfully!
+2020-08-20 18:06:25,828 - logger - INFO - ----- Epoch 145 train starts now -----
+2020-08-20 18:06:26,935 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:06:27,375 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:27,375 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:27,433 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:06:27,494 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:27,494 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:27,620 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:06:27,756 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:27,756 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:06:27,778 - logger - INFO - Saving epoch 145 model successfully!
+2020-08-20 18:06:27,778 - logger - INFO - ----- Epoch 146 train starts now -----
+2020-08-20 18:06:28,882 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:06:29,318 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:06:29,318 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:29,376 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:29,435 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:29,435 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:29,560 - logger - INFO - Accuracy of the network: 97 % (96/98)
+2020-08-20 18:06:29,697 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:29,697 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:29,717 - logger - INFO - Saving epoch 146 model successfully!
+2020-08-20 18:06:29,717 - logger - INFO - ----- Epoch 147 train starts now -----
+2020-08-20 18:06:30,825 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:06:31,262 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:06:31,262 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:06:31,323 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:06:31,383 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:31,383 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:31,510 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:06:31,648 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:31,648 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:31,668 - logger - INFO - Saving epoch 147 model successfully!
+2020-08-20 18:06:31,668 - logger - INFO - ----- Epoch 148 train starts now -----
+2020-08-20 18:06:32,772 - logger - INFO - Accuracy of the network: 99 % (341/343)
+2020-08-20 18:06:33,211 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:33,211 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:06:33,269 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:33,332 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:06:33,332 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:33,458 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:06:33,594 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:33,594 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:06:33,614 - logger - INFO - Saving epoch 148 model successfully!
+2020-08-20 18:06:33,614 - logger - INFO - ----- Epoch 149 train starts now -----
+2020-08-20 18:06:34,709 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:06:35,141 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:35,141 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:35,198 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:06:35,257 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:35,257 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:35,386 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:35,518 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:06:35,518 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:06:35,538 - logger - INFO - Saving epoch 149 model successfully!
+2020-08-20 18:06:35,538 - logger - INFO - ----- Epoch 150 train starts now -----
+2020-08-20 18:06:36,634 - logger - INFO - Accuracy of the network: 97 % (335/343)
+2020-08-20 18:06:37,070 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:37,070 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:37,128 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:06:37,187 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:37,187 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:37,311 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:06:37,449 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:06:37,449 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:37,469 - logger - INFO - Saving epoch 150 model successfully!
+2020-08-20 18:06:37,469 - logger - INFO - ----- Epoch 151 train starts now -----
+2020-08-20 18:06:38,563 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:06:38,995 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:38,995 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:06:39,052 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:39,111 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:39,111 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:39,235 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:39,369 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:39,369 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:39,390 - logger - INFO - Saving epoch 151 model successfully!
+2020-08-20 18:06:39,390 - logger - INFO - ----- Epoch 152 train starts now -----
+2020-08-20 18:06:40,479 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:06:40,912 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:40,912 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:40,970 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:41,029 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:41,030 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:41,154 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:41,288 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:41,288 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:41,309 - logger - INFO - Saving epoch 152 model successfully!
+2020-08-20 18:06:41,309 - logger - INFO - ----- Epoch 153 train starts now -----
+2020-08-20 18:06:42,414 - logger - INFO - Accuracy of the network: 95 % (329/343)
+2020-08-20 18:06:42,856 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:42,856 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:42,915 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:06:42,975 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:42,975 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:43,102 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:43,235 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:43,235 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:43,254 - logger - INFO - Saving epoch 153 model successfully!
+2020-08-20 18:06:43,255 - logger - INFO - ----- Epoch 154 train starts now -----
+2020-08-20 18:06:44,350 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:06:44,779 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:06:44,779 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:06:44,838 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:44,898 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:44,898 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:45,022 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:06:45,155 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:45,155 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:45,176 - logger - INFO - Saving epoch 154 model successfully!
+2020-08-20 18:06:45,176 - logger - INFO - ----- Epoch 155 train starts now -----
+2020-08-20 18:06:46,276 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:06:46,715 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:46,715 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:46,773 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:46,836 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:06:46,836 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:46,962 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:06:47,096 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:47,096 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:06:47,116 - logger - INFO - Saving epoch 155 model successfully!
+2020-08-20 18:06:47,116 - logger - INFO - ----- Epoch 156 train starts now -----
+2020-08-20 18:06:48,212 - logger - INFO - Accuracy of the network: 95 % (329/343)
+2020-08-20 18:06:48,654 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:06:48,654 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:48,712 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:06:48,772 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:48,772 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:06:48,900 - logger - INFO - Accuracy of the network: 92 % (91/98)
+2020-08-20 18:06:49,035 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:06:49,035 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:49,055 - logger - INFO - Saving epoch 156 model successfully!
+2020-08-20 18:06:49,055 - logger - INFO - ----- Epoch 157 train starts now -----
+2020-08-20 18:06:50,155 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:06:50,595 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:06:50,595 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:50,652 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:06:50,712 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:50,712 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:50,837 - logger - INFO - Accuracy of the network: 97 % (96/98)
+2020-08-20 18:06:50,970 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:06:50,970 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:06:50,991 - logger - INFO - Saving epoch 157 model successfully!
+2020-08-20 18:06:50,991 - logger - INFO - ----- Epoch 158 train starts now -----
+2020-08-20 18:06:52,079 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:06:52,512 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:52,512 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:52,569 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:52,628 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:52,628 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:06:52,752 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:52,884 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:06:52,884 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:06:52,904 - logger - INFO - Saving epoch 158 model successfully!
+2020-08-20 18:06:52,904 - logger - INFO - ----- Epoch 159 train starts now -----
+2020-08-20 18:06:54,002 - logger - INFO - Accuracy of the network: 98 % (338/343)
+2020-08-20 18:06:54,438 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:06:54,438 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:06:54,496 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:54,556 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:54,556 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:54,681 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:54,819 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:54,819 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:06:54,839 - logger - INFO - Saving epoch 159 model successfully!
+2020-08-20 18:06:54,839 - logger - INFO - ----- Epoch 160 train starts now -----
+2020-08-20 18:06:55,943 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:06:56,379 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:06:56,379 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:06:56,437 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:56,496 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:06:56,496 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:56,623 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:06:56,761 - logger - INFO - Accuracy of  bright: 84 %
+2020-08-20 18:06:56,762 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:06:56,782 - logger - INFO - Saving epoch 160 model successfully!
+2020-08-20 18:06:56,782 - logger - INFO - ----- Epoch 161 train starts now -----
+2020-08-20 18:06:57,888 - logger - INFO - Accuracy of the network: 98 % (338/343)
+2020-08-20 18:06:58,324 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:06:58,324 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:06:58,382 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:06:58,441 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:06:58,441 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:06:58,565 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:06:58,702 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:06:58,702 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:06:58,722 - logger - INFO - Saving epoch 161 model successfully!
+2020-08-20 18:06:58,722 - logger - INFO - ----- Epoch 162 train starts now -----
+2020-08-20 18:06:59,820 - logger - INFO - Accuracy of the network: 98 % (338/343)
+2020-08-20 18:07:00,261 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:00,261 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:00,321 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:07:00,381 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:00,381 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:00,506 - logger - INFO - Accuracy of the network: 92 % (91/98)
+2020-08-20 18:07:00,640 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:07:00,640 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:07:00,660 - logger - INFO - Saving epoch 162 model successfully!
+2020-08-20 18:07:00,660 - logger - INFO - ----- Epoch 163 train starts now -----
+2020-08-20 18:07:01,754 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:07:02,191 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:07:02,191 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:02,249 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:02,309 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:02,309 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:07:02,436 - logger - INFO - Accuracy of the network: 89 % (88/98)
+2020-08-20 18:07:02,569 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:07:02,569 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:02,591 - logger - INFO - Saving epoch 163 model successfully!
+2020-08-20 18:07:02,591 - logger - INFO - ----- Epoch 164 train starts now -----
+2020-08-20 18:07:03,682 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:07:04,117 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:04,117 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:07:04,175 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:04,234 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:04,234 - logger - INFO - Accuracy of    dark: 88 %
+2020-08-20 18:07:04,360 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:04,497 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:04,497 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:07:04,517 - logger - INFO - Saving epoch 164 model successfully!
+2020-08-20 18:07:04,517 - logger - INFO - ----- Epoch 165 train starts now -----
+2020-08-20 18:07:05,623 - logger - INFO - Accuracy of the network: 97 % (335/343)
+2020-08-20 18:07:06,061 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:06,061 - logger - INFO - Accuracy of    dark: 95 %
+2020-08-20 18:07:06,119 - logger - INFO - Accuracy of the network: 89 % (43/48)
+2020-08-20 18:07:06,179 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:06,179 - logger - INFO - Accuracy of    dark: 80 %
+2020-08-20 18:07:06,307 - logger - INFO - Accuracy of the network: 86 % (85/98)
+2020-08-20 18:07:06,445 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:06,445 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:07:06,464 - logger - INFO - Saving epoch 165 model successfully!
+2020-08-20 18:07:06,465 - logger - INFO - ----- Epoch 166 train starts now -----
+2020-08-20 18:07:07,572 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:07:08,012 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:07:08,012 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:07:08,070 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:07:08,130 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:08,130 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:08,257 - logger - INFO - Accuracy of the network: 98 % (97/98)
+2020-08-20 18:07:08,390 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:07:08,390 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:08,411 - logger - INFO - Saving epoch 166 model successfully!
+2020-08-20 18:07:08,411 - logger - INFO - ----- Epoch 167 train starts now -----
+2020-08-20 18:07:09,509 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:07:09,945 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:07:09,945 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:10,004 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:07:10,064 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:10,064 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:07:10,191 - logger - INFO - Accuracy of the network: 93 % (92/98)
+2020-08-20 18:07:10,329 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:10,329 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:10,349 - logger - INFO - Saving epoch 167 model successfully!
+2020-08-20 18:07:10,349 - logger - INFO - ----- Epoch 168 train starts now -----
+2020-08-20 18:07:11,446 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:07:11,880 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:11,880 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:11,938 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:11,997 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:07:11,997 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:12,124 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:07:12,259 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:12,259 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:07:12,279 - logger - INFO - Saving epoch 168 model successfully!
+2020-08-20 18:07:12,279 - logger - INFO - ----- Epoch 169 train starts now -----
+2020-08-20 18:07:13,385 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:07:13,822 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:13,822 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:07:13,883 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:13,943 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:13,943 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:14,068 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:07:14,206 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:14,206 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:07:14,227 - logger - INFO - Saving epoch 169 model successfully!
+2020-08-20 18:07:14,227 - logger - INFO - ----- Epoch 170 train starts now -----
+2020-08-20 18:07:15,320 - logger - INFO - Accuracy of the network: 96 % (330/343)
+2020-08-20 18:07:15,750 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:15,751 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:07:15,808 - logger - INFO - Accuracy of the network: 87 % (42/48)
+2020-08-20 18:07:15,870 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:15,870 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:15,991 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:07:16,125 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:16,125 - logger - INFO - Accuracy of    dark: 86 %
+2020-08-20 18:07:16,145 - logger - INFO - Saving epoch 170 model successfully!
+2020-08-20 18:07:16,145 - logger - INFO - ----- Epoch 171 train starts now -----
+2020-08-20 18:07:17,242 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:07:17,678 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:17,678 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:17,736 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:17,796 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:17,796 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:17,924 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:07:18,061 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:18,061 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:18,081 - logger - INFO - Saving epoch 171 model successfully!
+2020-08-20 18:07:18,081 - logger - INFO - ----- Epoch 172 train starts now -----
+2020-08-20 18:07:19,171 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:07:19,604 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:19,604 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:19,663 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:19,724 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:07:19,724 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:19,852 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:07:19,983 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:07:19,983 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:07:20,003 - logger - INFO - Saving epoch 172 model successfully!
+2020-08-20 18:07:20,003 - logger - INFO - ----- Epoch 173 train starts now -----
+2020-08-20 18:07:21,100 - logger - INFO - Accuracy of the network: 96 % (332/343)
+2020-08-20 18:07:21,535 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:07:21,535 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:07:21,593 - logger - INFO - Accuracy of the network: 95 % (46/48)
+2020-08-20 18:07:21,652 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:21,652 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:21,775 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:07:21,910 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:21,910 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:21,930 - logger - INFO - Saving epoch 173 model successfully!
+2020-08-20 18:07:21,930 - logger - INFO - ----- Epoch 174 train starts now -----
+2020-08-20 18:07:23,033 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:07:23,476 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:07:23,476 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:23,534 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:23,594 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:23,594 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:23,721 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:07:23,860 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:23,860 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:23,880 - logger - INFO - Saving epoch 174 model successfully!
+2020-08-20 18:07:23,880 - logger - INFO - ----- Epoch 175 train starts now -----
+2020-08-20 18:07:24,974 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:07:25,407 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:25,407 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:07:25,464 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:25,523 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:25,523 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:25,646 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:25,781 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:07:25,781 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:25,800 - logger - INFO - Saving epoch 175 model successfully!
+2020-08-20 18:07:25,800 - logger - INFO - ----- Epoch 176 train starts now -----
+2020-08-20 18:07:26,894 - logger - INFO - Accuracy of the network: 99 % (341/343)
+2020-08-20 18:07:27,326 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:07:27,327 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:07:27,387 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:27,447 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:27,447 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:27,574 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:27,710 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:27,710 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:07:27,729 - logger - INFO - Saving epoch 176 model successfully!
+2020-08-20 18:07:27,730 - logger - INFO - ----- Epoch 177 train starts now -----
+2020-08-20 18:07:28,820 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:07:29,256 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:07:29,256 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:29,313 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:29,375 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:29,375 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:29,501 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:07:29,636 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:29,636 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:29,655 - logger - INFO - Saving epoch 177 model successfully!
+2020-08-20 18:07:29,655 - logger - INFO - ----- Epoch 178 train starts now -----
+2020-08-20 18:07:30,752 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:07:31,187 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:07:31,187 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:31,244 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:31,304 - logger - INFO - Accuracy of  bright: 86 %
+2020-08-20 18:07:31,304 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:31,432 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:07:31,565 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:07:31,565 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:31,585 - logger - INFO - Saving epoch 178 model successfully!
+2020-08-20 18:07:31,585 - logger - INFO - ----- Epoch 179 train starts now -----
+2020-08-20 18:07:32,688 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:07:33,126 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:33,126 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:33,184 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:07:33,244 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:07:33,244 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:33,372 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:07:33,509 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:07:33,509 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:33,529 - logger - INFO - Saving epoch 179 model successfully!
+2020-08-20 18:07:33,529 - logger - INFO - ----- Epoch 180 train starts now -----
+2020-08-20 18:07:34,634 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:07:35,067 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:07:35,067 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:07:35,125 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:35,184 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:35,184 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:35,308 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:35,441 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:35,441 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:07:35,461 - logger - INFO - Saving epoch 180 model successfully!
+2020-08-20 18:07:35,461 - logger - INFO - ----- Epoch 181 train starts now -----
+2020-08-20 18:07:36,550 - logger - INFO - Accuracy of the network: 99 % (342/343)
+2020-08-20 18:07:36,979 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:36,979 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:37,036 - logger - INFO - Accuracy of the network: 91 % (44/48)
+2020-08-20 18:07:37,095 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:37,096 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:37,219 - logger - INFO - Accuracy of the network: 91 % (90/98)
+2020-08-20 18:07:37,356 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:37,356 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:07:37,377 - logger - INFO - Saving epoch 181 model successfully!
+2020-08-20 18:07:37,377 - logger - INFO - ----- Epoch 182 train starts now -----
+2020-08-20 18:07:38,470 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:07:38,903 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:38,903 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:07:38,960 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:39,019 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:39,020 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:07:39,142 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:39,276 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:39,276 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:39,296 - logger - INFO - Saving epoch 182 model successfully!
+2020-08-20 18:07:39,296 - logger - INFO - ----- Epoch 183 train starts now -----
+2020-08-20 18:07:40,394 - logger - INFO - Accuracy of the network: 97 % (334/343)
+2020-08-20 18:07:40,827 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:07:40,827 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:40,887 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:40,947 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:40,947 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:41,072 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:07:41,207 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:41,207 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:41,227 - logger - INFO - Saving epoch 183 model successfully!
+2020-08-20 18:07:41,227 - logger - INFO - ----- Epoch 184 train starts now -----
+2020-08-20 18:07:42,324 - logger - INFO - Accuracy of the network: 99 % (341/343)
+2020-08-20 18:07:42,756 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:07:42,757 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:42,814 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:42,875 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:42,875 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:43,000 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:43,132 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:43,132 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:07:43,151 - logger - INFO - Saving epoch 184 model successfully!
+2020-08-20 18:07:43,151 - logger - INFO - ----- Epoch 185 train starts now -----
+2020-08-20 18:07:44,256 - logger - INFO - Accuracy of the network: 97 % (335/343)
+2020-08-20 18:07:44,702 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:44,702 - logger - INFO - Accuracy of    dark: 93 %
+2020-08-20 18:07:44,759 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:07:44,819 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:44,820 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:07:44,949 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:45,084 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:45,084 - logger - INFO - Accuracy of    dark: 83 %
+2020-08-20 18:07:45,104 - logger - INFO - Saving epoch 185 model successfully!
+2020-08-20 18:07:45,104 - logger - INFO - ----- Epoch 186 train starts now -----
+2020-08-20 18:07:46,199 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:07:46,633 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:46,633 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:46,690 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:46,750 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:46,750 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:46,872 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:07:47,007 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:07:47,007 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:47,026 - logger - INFO - Saving epoch 186 model successfully!
+2020-08-20 18:07:47,026 - logger - INFO - ----- Epoch 187 train starts now -----
+2020-08-20 18:07:48,130 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:07:48,569 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:48,569 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:07:48,627 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:48,687 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:48,687 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:48,814 - logger - INFO - Accuracy of the network: 100 % (98/98)
+2020-08-20 18:07:48,950 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:07:48,950 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:48,970 - logger - INFO - Saving epoch 187 model successfully!
+2020-08-20 18:07:48,970 - logger - INFO - ----- Epoch 188 train starts now -----
+2020-08-20 18:07:50,068 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:07:50,501 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:50,501 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:50,559 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:07:50,618 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:50,618 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:50,742 - logger - INFO - Accuracy of the network: 98 % (97/98)
+2020-08-20 18:07:50,878 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:50,878 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:07:50,898 - logger - INFO - Saving epoch 188 model successfully!
+2020-08-20 18:07:50,898 - logger - INFO - ----- Epoch 189 train starts now -----
+2020-08-20 18:07:51,999 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:07:52,438 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:07:52,438 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:52,497 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:52,558 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:52,558 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:52,687 - logger - INFO - Accuracy of the network: 97 % (96/98)
+2020-08-20 18:07:52,824 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:07:52,824 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:52,846 - logger - INFO - Saving epoch 189 model successfully!
+2020-08-20 18:07:52,846 - logger - INFO - ----- Epoch 190 train starts now -----
+2020-08-20 18:07:53,959 - logger - INFO - Accuracy of the network: 99 % (342/343)
+2020-08-20 18:07:54,398 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:07:54,398 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:07:54,457 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:54,517 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:54,517 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:54,643 - logger - INFO - Accuracy of the network: 90 % (89/98)
+2020-08-20 18:07:54,781 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:54,781 - logger - INFO - Accuracy of    dark: 90 %
+2020-08-20 18:07:54,801 - logger - INFO - Saving epoch 190 model successfully!
+2020-08-20 18:07:54,801 - logger - INFO - ----- Epoch 191 train starts now -----
+2020-08-20 18:07:55,907 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:07:56,337 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:56,337 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:56,397 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:07:56,456 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:56,456 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:07:56,580 - logger - INFO - Accuracy of the network: 97 % (96/98)
+2020-08-20 18:07:56,715 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:07:56,715 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:07:56,735 - logger - INFO - Saving epoch 191 model successfully!
+2020-08-20 18:07:56,735 - logger - INFO - ----- Epoch 192 train starts now -----
+2020-08-20 18:07:57,840 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:07:58,278 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:58,278 - logger - INFO - Accuracy of    dark: 97 %
+2020-08-20 18:07:58,337 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:07:58,399 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:07:58,399 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:07:58,525 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:07:58,662 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:07:58,662 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:07:58,682 - logger - INFO - Saving epoch 192 model successfully!
+2020-08-20 18:07:58,682 - logger - INFO - ----- Epoch 193 train starts now -----
+2020-08-20 18:07:59,779 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:08:00,216 - logger - INFO - Accuracy of  bright: 97 %
+2020-08-20 18:08:00,216 - logger - INFO - Accuracy of    dark: 99 %
+2020-08-20 18:08:00,274 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:08:00,334 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:00,334 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:08:00,463 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:08:00,599 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:00,599 - logger - INFO - Accuracy of    dark: 94 %
+2020-08-20 18:08:00,619 - logger - INFO - Saving epoch 193 model successfully!
+2020-08-20 18:08:00,619 - logger - INFO - ----- Epoch 194 train starts now -----
+2020-08-20 18:08:01,723 - logger - INFO - Accuracy of the network: 99 % (340/343)
+2020-08-20 18:08:02,164 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:08:02,164 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:02,222 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:08:02,282 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:02,282 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:08:02,409 - logger - INFO - Accuracy of the network: 98 % (97/98)
+2020-08-20 18:08:02,543 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:02,543 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:08:02,563 - logger - INFO - Saving epoch 194 model successfully!
+2020-08-20 18:08:02,563 - logger - INFO - ----- Epoch 195 train starts now -----
+2020-08-20 18:08:03,663 - logger - INFO - Accuracy of the network: 99 % (342/343)
+2020-08-20 18:08:04,099 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:08:04,099 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:08:04,157 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:08:04,216 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:08:04,217 - logger - INFO - Accuracy of    dark: 84 %
+2020-08-20 18:08:04,340 - logger - INFO - Accuracy of the network: 94 % (93/98)
+2020-08-20 18:08:04,477 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:08:04,477 - logger - INFO - Accuracy of    dark: 92 %
+2020-08-20 18:08:04,498 - logger - INFO - Saving epoch 195 model successfully!
+2020-08-20 18:08:04,498 - logger - INFO - ----- Epoch 196 train starts now -----
+2020-08-20 18:08:05,591 - logger - INFO - Accuracy of the network: 98 % (339/343)
+2020-08-20 18:08:06,028 - logger - INFO - Accuracy of  bright: 99 %
+2020-08-20 18:08:06,028 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:06,087 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:08:06,146 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:08:06,146 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:08:06,274 - logger - INFO - Accuracy of the network: 97 % (96/98)
+2020-08-20 18:08:06,412 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:06,412 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:08:06,432 - logger - INFO - Saving epoch 196 model successfully!
+2020-08-20 18:08:06,432 - logger - INFO - ----- Epoch 197 train starts now -----
+2020-08-20 18:08:07,542 - logger - INFO - Accuracy of the network: 98 % (338/343)
+2020-08-20 18:08:07,982 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:08:07,982 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:08,041 - logger - INFO - Accuracy of the network: 93 % (45/48)
+2020-08-20 18:08:08,101 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:08,101 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:08,228 - logger - INFO - Accuracy of the network: 95 % (94/98)
+2020-08-20 18:08:08,364 - logger - INFO - Accuracy of  bright: 93 %
+2020-08-20 18:08:08,364 - logger - INFO - Accuracy of    dark: 96 %
+2020-08-20 18:08:08,387 - logger - INFO - Saving epoch 197 model successfully!
+2020-08-20 18:08:08,387 - logger - INFO - ----- Epoch 198 train starts now -----
+2020-08-20 18:08:09,476 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:08:09,909 - logger - INFO - Accuracy of  bright: 98 %
+2020-08-20 18:08:09,909 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:09,966 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:08:10,025 - logger - INFO - Accuracy of  bright: 90 %
+2020-08-20 18:08:10,025 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:10,147 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:08:10,281 - logger - INFO - Accuracy of  bright: 88 %
+2020-08-20 18:08:10,281 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:10,302 - logger - INFO - Saving epoch 198 model successfully!
+2020-08-20 18:08:10,302 - logger - INFO - ----- Epoch 199 train starts now -----
+2020-08-20 18:08:11,401 - logger - INFO - Accuracy of the network: 97 % (336/343)
+2020-08-20 18:08:11,835 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:08:11,835 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:11,895 - logger - INFO - Accuracy of the network: 100 % (48/48)
+2020-08-20 18:08:11,954 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:11,955 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:12,080 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:08:12,214 - logger - INFO - Accuracy of  bright: 91 %
+2020-08-20 18:08:12,214 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:12,234 - logger - INFO - Saving epoch 199 model successfully!
+2020-08-20 18:08:12,234 - logger - INFO - ----- Epoch 200 train starts now -----
+2020-08-20 18:08:13,339 - logger - INFO - Accuracy of the network: 98 % (337/343)
+2020-08-20 18:08:13,773 - logger - INFO - Accuracy of  bright: 96 %
+2020-08-20 18:08:13,773 - logger - INFO - Accuracy of    dark: 98 %
+2020-08-20 18:08:13,831 - logger - INFO - Accuracy of the network: 97 % (47/48)
+2020-08-20 18:08:13,893 - logger - INFO - Accuracy of  bright: 95 %
+2020-08-20 18:08:13,893 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:14,020 - logger - INFO - Accuracy of the network: 96 % (95/98)
+2020-08-20 18:08:14,157 - logger - INFO - Accuracy of  bright: 100 %
+2020-08-20 18:08:14,157 - logger - INFO - Accuracy of    dark: 100 %
+2020-08-20 18:08:14,177 - logger - INFO - Saving epoch 200 model successfully!
+2020-08-20 18:13:48,265 - logger - INFO - train_set: {'dark': 0, 'light': 1}
+2020-08-20 18:13:48,265 - logger - INFO - valid_set: {'dark': 0, 'light': 1}
+2020-08-20 18:13:48,265 - logger - INFO - test_set: {'dark': 0, 'light': 1}
+2020-08-20 18:14:10,827 - logger - INFO - train_set: {'dark': 0, 'light': 1}
+2020-08-20 18:14:10,827 - logger - INFO - valid_set: {'dark': 0, 'light': 1}
+2020-08-20 18:14:10,828 - logger - INFO - test_set: {'dark': 0, 'light': 1}
+2020-08-20 18:15:48,020 - logger - INFO - train_set: {'dark': 0, 'light': 1}
+2020-08-20 18:15:48,020 - logger - INFO - valid_set: {'dark': 0, 'light': 1}
+2020-08-20 18:15:48,021 - logger - INFO - test_set: {'dark': 0, 'light': 1}
+2020-08-20 18:16:11,956 - logger - INFO - train_set: {'dark': 0, 'light': 1}
+2020-08-20 18:16:11,956 - logger - INFO - valid_set: {'dark': 0, 'light': 1}
+2020-08-20 18:16:11,956 - logger - INFO - test_set: {'dark': 0, 'light': 1}
+2020-08-20 18:18:13,204 - logger - INFO - train_set: {'dark': 0, 'light': 1}
+2020-08-20 18:18:13,205 - logger - INFO - valid_set: {'dark': 0, 'light': 1}
+2020-08-20 18:18:13,205 - logger - INFO - test_set: {'dark': 0, 'light': 1}
+2020-08-20 19:10:33,726 - logger - INFO - train_set: {'dark': 0, 'light': 1}
+2020-08-20 19:10:33,726 - logger - INFO - valid_set: {'dark': 0, 'light': 1}
+2020-08-20 19:10:33,727 - logger - INFO - test_set: {'dark': 0, 'light': 1}
