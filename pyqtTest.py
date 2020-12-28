@@ -163,6 +163,7 @@ class Ui_MainWindow(QtWidgets.QWidget):
                                      QtGui.QImage.Format_RGB888)  # 把读取到的视频数据变成QImage形式
             self.label_show_camera1.setPixmap(QtGui.QPixmap.fromImage(showImage1))  # 往显示视频的Label里 显示QImage
 
+
 if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)  # 固定的，表示程序应用
     ui = Ui_MainWindow()  # 实例化Ui_MainWindow
