@@ -173,6 +173,7 @@ net = MobileNet()
 if torch.cuda.is_available():
     net.cuda()
 
+
 def train():
     learning_rate = 0.0001
     momentum = 0.9
@@ -234,6 +235,7 @@ def train():
 ''' 批量计算整个数据集预测效果 '''
 #####################################################################
 
+
 def networkTotalAccuracy(dataset_loader):    
     correct = 0
     total = 0
@@ -256,6 +258,7 @@ def networkTotalAccuracy(dataset_loader):
 #####################################################################
 ''' 计算每个类的预测效果 '''
 #####################################################################
+
 
 def networkClassAccuracy(dataset_loader):
     class_correct = list(0. for i in range(len(classes)))
@@ -283,6 +286,8 @@ def networkClassAccuracy(dataset_loader):
 #####################################################################
 ''' 处理视频 '''
 #####################################################################
+
+
 def send(result):
     try:
         r = requests.post(url,data = json.dumps(result),timeout = 1)
@@ -293,6 +298,7 @@ def send(result):
         print(r.status_code)
     except:
         return "产生异常"
+
 
 def lightsAnalysis(classes_list):
     light_stats = [0, 0, 0, 0]
@@ -529,6 +535,8 @@ def main():
     # detect_Unmatched_img()
     # detectPhoto()
     # cut_BoardPhoto()
+
+
 if __name__ == '__main__':
     main()
     
